@@ -4,7 +4,6 @@
 
 [[plugins]]
   package = "@netlify/plugin-gatsby"
-  inputs = {}
 
 [[redirects]] # Uncomment if you have client-side routing (e.g., for SPAs)
   from = "/*"
