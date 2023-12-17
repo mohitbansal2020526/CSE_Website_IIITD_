@@ -1,0 +1,9 @@
+{
+  "date": "",
+  "image": "/images/uploads/afp.png",
+  "title": "HiPeC Lab",
+  "description": "The new computing era has brought twofold challenge in building software: how to expose the parallelism in the software without much of a hassle and how to fully exploit the performance of all the processing elements. The focus of our research is to solve these complex challenges by building parallel programming models and runtimes to increase the productivity and performance.",
+  "link": "http://hipec.iiitd.edu.in",
+  "category": ["Labs"],
+  "subtitle": " High Performance Computing Lab"
+}

@@ -1,0 +1,13 @@
+.zoom:hover {
+    transform: scale(1.04);
+}
+
+.zoom {
+    transition: transform .4s ease-in-out;
+}
+.component-container {
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    padding: 7px; 
+    border-radius: 8px;
+  }

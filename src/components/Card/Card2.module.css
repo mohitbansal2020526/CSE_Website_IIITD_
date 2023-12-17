@@ -1,0 +1,78 @@
+.container {
+  position: relative;
+  background: #f1f1f1;
+  margin: 10px;
+  padding: 10px 10px 60px;
+  flex: 1;
+  width: auto;
+  min-width: 190px;
+  max-width: 250px;
+  border-radius: 5px;
+  overflow: visible;
+  border: 1px solid #d1d1d6;
+  box-shadow: 5px black;
+}
+
+.heading {
+  text-decoration: none;
+  /*color: inherit;*/
+  /*color: #3fada8;*/
+  color: #5785ca;
+  transition: all 0.1s ease-in-out;
+  font-weight: bold;
+}
+
+.heading:hover {
+  color: #3fada8;
+}
+
+.heading img {
+  align-self: center;
+  width: 100%;
+  object-fit: cover;
+  margin: 0;
+}
+
+.heading h3 {
+  font-size: 1.05rem;
+  margin: 10px 0;
+  line-height: 1.4;
+}
+
+.description {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.job-title {
+  font-weight: 550;
+}
+
+.staff-name h3 {
+  color: #5785ca;
+  font-size: 1.05rem;
+  margin: 5px 0 !important;
+  line-height: 1.4;
+}
+
+.staff-name h3:hover {
+  color: #3fada8;
+}
+
+.staff-name img {
+  align-self: center;
+  width: 100%;
+  object-fit: cover;
+  margin: 0;
+}
+
+.extra {
+  color: #232323;
+}
+
+@media only screen and (max-width: 480px) {
+  .container {
+    min-width: 150px;
+    margin: 5px;
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Finding the ‘Most Navigable Path’ in road networks",
+  "subtitle": "Ketchup Talk by Ramneek Kaur",
+  "description": "Input to the Most Navigable Path (MNP) problem consists of the following: (a) a road network represented as a directed graph, where each edge is associated with numeric attributes of cost and “navigability score” values; (b) a source and a destination and; (c) a budget value which denotes the maximum permissible cost of the solution. ",
+  "image": "https://media-exp1.licdn.com/dms/image/C5103AQGP3-ZBpp4kuA/profile-displayphoto-shrink_800_800/0/1570441168729?e=1628121600&v=beta&t=WDH-McyGfRbO-uKm1Qy9IQLgLuQ7azQ9yBerMiUJRYw",
+  "category": ["Events"],
+  "date": "2021-01-01"
+}

@@ -1,0 +1,90 @@
+.accordion-section {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.accordion-button {
+  background: transparent;
+  cursor: pointer;
+  width: 100% !important;
+  /* text-transform: uppercase; */
+  text-decoration: none !important;
+  padding: 0.5rem;
+  color: #221f1f !important;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  outline: none;
+  transition: background-color 0.3s ease;
+  font-weight: 550;
+  font-family: "Source Sans Pro", sans-serif !important;
+  font-size: 1.25rem;
+}
+
+.accordion-title {
+  color: #221f1f !important;
+  text-decoration: none !important;
+  transition: 0.2s all ease-in-out;
+}
+
+.accordion-title:hover {
+  color: #3fada8 !important;
+}
+
+.accordion:hover .active {
+}
+
+.accordion-icon {
+  margin-left: auto;
+  transition: transform 0.3s ease;
+}
+
+.rotate {
+  transform: rotate(90deg);
+}
+
+.accordion-menu {
+  display: flex !important;
+  flex-direction: column !important;
+  overflow: hidden !important;
+  width: 100%;
+  transition: max-height 0.3s ease !important;
+}
+
+.accordion-menu li {
+  width: 95% !important;
+  margin: 3px auto !important;
+}
+
+.accordion-menu li:first-of-type {
+  margin-top: -0.2rem !important;
+}
+.accordion-menu li:last-of-type {
+  /* margin-bottom: -0.1rem !important; */
+}
+
+.accordion-nav2-links {
+  align-items: flex-start;
+  color: #221f1f;
+  text-decoration: none;
+  /* text-transform: uppercase; */
+  font-size: 1.1rem;
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+  text-align: left !important;
+  padding-bottom: 10px;
+  transition: 0.2s all ease-in-out;
+}
+
+.accordion-nav2-links:hover {
+  color: #3fada8 !important;
+}
+
+.nav2-links:hover .active {
+  color: #3fada8;
+  transition: all 0.1s ease-out;
+}

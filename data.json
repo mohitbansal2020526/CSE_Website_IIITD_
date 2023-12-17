@@ -1,0 +1,1786 @@
+[
+  {
+    "date": "2022-02-02",
+    "subtitle": " AAAI 2022 ",
+    "description": "Estelle M. Massart, Vinayak Abrol",
+    "title": "Coordinate Descent on the Orthogonal Group for Recurrent Neural Network Training.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/20742",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "IEEE Trans. Multim. 2021 ",
+    "description": "Vinayak Abrol, Pulkit Sharma, Arijit Patra",
+    "title": "Improving Generative Modelling in VAEs Using Multimodal Prior.",
+    "link": "https://doi.org/10.1109/TMM.2020.3008053",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Emerg. Top. Comput. 2022 ",
+    "description": "Mitali Sinha, Pramit Bhattacharyya, Sidhartha Sankar Rout, Neha Bhairavi Prakriya, Sujay Deb",
+    "title": "Securing an Accelerator-Rich System From Flooding-Based Denial-of-Service Attacks.",
+    "link": "https://doi.org/10.1109/TETC.2021.3049826",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "ACM Trans. Design Autom. Electr. Syst. 2022 ",
+    "description": "Sri Harsha Gade, Sujay Deb",
+    "title": "A Novel Hybrid Cache Coherence with Global Snooping for Many-core Architectures.",
+    "link": "https://doi.org/10.1145/3462775",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2021 ",
+    "description": "Sidhartha Sankar Rout, Sujay Deb, Kanad Basu",
+    "title": "WiND: An Efficient Post-Silicon Debug Strategy for Network on Chip.",
+    "link": "https://doi.org/10.1109/TCAD.2020.3044897",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "ACM Trans. Design Autom. Electr. Syst. 2021 ",
+    "description": "Mitali Sinha, Sri Harsha Gade, Pramit Bhattacharyya, Sujay Deb",
+    "title": "Design Space Optimization of Shared Memory Architecture in Accelerator-rich Systems.",
+    "link": "https://doi.org/10.1145/3446001",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Consumer Electron. 2020 ",
+    "description": "Wazir Singh, Sujay Deb, Pydi Bahubalindruni",
+    "title": "Low-Noise Energy Efficient Readout Front-End for Wearable Continuous Blood Pressure Monitoring Systems.",
+    "link": "https://doi.org/10.1109/TCE.2020.3017282",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": "ACM Trans. Design Autom. Electr. Syst. 2019 ",
+    "description": "Sri Harsha Gade, M. Meraj Ahmed, Sujay Deb, Amlan Ganguly",
+    "title": "Energy Efficient Chip-to-Chip Wireless Interconnection for Heterogeneous Architectures.",
+    "link": "https://doi.org/10.1145/3340109",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "IEEE Trans. Computers 2017 ",
+    "description": "Sri Harsha Gade, Sujay Deb",
+    "title": "HyWin: Hybrid Wireless NoC with Sandboxed Sub-Networks for CPU/GPU Architectures.",
+    "link": "https://doi.org/10.1109/TC.2016.2643668",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "IEEE Trans. Multi Scale Comput. Syst. 2017 ",
+    "description": "Hemanta Kumar Mondal, Sri Harsha Gade, Md Shahriar Shamim, Sujay Deb, Amlan Ganguly",
+    "title": "Interference-Aware Wireless Network-on-Chip Architecture Using Directional Antennas.",
+    "link": "https://doi.org/10.1109/TMSCS.2016.2595527",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "IEEE Trans. Sustain. Comput. 2017 ",
+    "description": "Hemanta Kumar Mondal, Sri Harsha Gade, Shashwat Kaushik, Sujay Deb",
+    "title": "Adaptive Multi-Voltage Scaling with Utilization Prediction for Energy-Efficient Wireless NoC.",
+    "link": "https://doi.org/10.1109/TSUSC.2017.2742219",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2013-02-02",
+    "subtitle": "IEEE Trans. Computers 2013 ",
+    "description": "Sujay Deb, Kevin Chang , Xinmin Yu, Suman Prasad Sah, Miralem Cosic, Amlan Ganguly, Partha Pratim Pande, Benjamin Belzer, Deuk Hyoun Heo",
+    "title": "Design of an Energy-Efficient CMOS-Compatible NoC Architecture with Millimeter-Wave Wireless Interconnects.",
+    "link": "https://doi.org/10.1109/TC.2012.224",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " AAAI 2021 ",
+    "description": "Vyacheslav Kungurtsev, Malcolm Egan, Bapi Chatterjee, Dan Alistarh",
+    "title": "Asynchronous Optimization Methods for Efficient Training of Deep Neural Networks with Guarantees.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/16999",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " AAAI 2021 ",
+    "description": "Giorgi Nadiradze, Ilia Markov, Bapi Chatterjee, Vyacheslav Kungurtsev, Dan Alistarh",
+    "title": "Elastic Consistency: A Practical Consistency Model for Distributed Stochastic Gradient Descent.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/17092",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE/ACM Trans. Netw. 2022 ",
+    "description": "Arani Bhattacharya, Caitao Zhan, Abhishek Maji, Himanshu Gupta , Samir R. Das, Petar M. Djuric",
+    "title": "Selection of Sensors for Efficient Transmitter Localization.",
+    "link": "https://doi.org/10.1109/TNET.2021.3104000",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "IEEE Trans. Netw. Serv. Manag. 2021 ",
+    "description": "Sohee Kim Park, Arani Bhattacharya, Zhibo Yang, Samir R. Das, Dimitris Samaras",
+    "title": "Mosaic: Advancing User Quality of Experience in 360-Degree Video Streaming With Machine Learning.",
+    "link": "https://doi.org/10.1109/TNSM.2021.3053183",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " SenSys 2021 ",
+    "description": "Jian Xu , Arani Bhattacharya, Aruna Balasubramanian, Donald E. Porter",
+    "title": "Sensor Virtualization for Efficient Sharing of Mobile and Wearable Sensors.",
+    "link": "https://doi.org/10.1145/3485730.3493451",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Cogn. Commun. Netw. 2020 ",
+    "description": "Arani Bhattacharya, Ayon Chakraborty, Samir R. Das, Himanshu Gupta , Petar M. Djuric",
+    "title": "Spectrum Patrolling With Crowdsourced Spectrum Sensors.",
+    "link": "https://doi.org/10.1109/TCCN.2019.2939793",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " WWW 2020 ",
+    "description": "Vasudevan Nagendra, Arani Bhattacharya, Vinod Yegneswaran, Amir Rahmati, Samir Ranjan Das",
+    "title": "An Intent-Based Automation Framework for Securing Dynamic Consumer IoT Infrastructures.",
+    "link": "https://doi.org/10.1145/3366423.3380234",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE ACM Trans. Comput. Biol. Bioinform. 2022 ",
+    "description": "Priyadarshini Rai, Debarka Sengupta, Angshul Majumdar",
+    "title": "SelfE: Gene Selection via Self-Expression for Single-Cell Data.",
+    "link": "https://doi.org/10.1109/TCBB.2020.2997326",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE ACM Trans. Comput. Biol. Bioinform. 2022 ",
+    "description": "Aanchal Mongia, Émilie Chouzenoux, Angshul Majumdar",
+    "title": "Computational Prediction of Drug-Disease Association Based on Graph-Regularized One Bit Matrix Completion.",
+    "link": "https://doi.org/10.1109/TCBB.2022.3189879",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Instrum. Meas. 2022 ",
+    "description": "Angshul Majumdar",
+    "title": "Trainingless Energy Disaggregation Without Plug-Level Sensing.",
+    "link": "https://doi.org/10.1109/TIM.2022.3152311",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Instrum. Meas. 2022 ",
+    "description": "Angshul Majumdar",
+    "title": "Disaggregating a New Appliance On-the-Fly Without Data Acquisition and Retraining.",
+    "link": "https://doi.org/10.1109/TIM.2022.3177200",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "ACM Trans. Knowl. Discov. Data 2022 ",
+    "description": "Shikha Singh , Émilie Chouzenoux, Giovanni Chierchia, Angshul Majumdar",
+    "title": "Multi-label Deep Convolutional Transform Learning for Non-intrusive Load Monitoring.",
+    "link": "https://doi.org/10.1145/3502729",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Smart Grid 2022 ",
+    "description": "Shikha Singh , Angshul Majumdar",
+    "title": "Multi-Label Deep Blind Compressed Sensing for Low-Frequency Non-Intrusive Load Monitoring.",
+    "link": "https://doi.org/10.1109/TSG.2021.3114087",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " SenSys 2022 ",
+    "description": "Naibedya Pattnaik, Uday Sai Vemula, Kriti Kumar, Achanna Anil Kumar, Angshul Majumdar, M. Girish Chandra, Arpan Pal",
+    "title": "CycleGAN Based Unsupervised Domain Adaptation for Machine Fault Diagnosis.",
+    "link": "https://doi.org/10.1145/3560905.3568303",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "ACM Trans. Knowl. Discov. Data 2021 ",
+    "description": "Shalini Sharma, Angshul Majumdar",
+    "title": "Sequential Transform Learning.",
+    "link": "https://doi.org/10.1145/3447394",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "IEEE Trans. Knowl. Data Eng. 2021 ",
+    "description": "Jyoti Maggu, Angshul Majumdar, Émilie Chouzenoux",
+    "title": "Transformed Subspace Clustering.",
+    "link": "https://doi.org/10.1109/TKDE.2020.2969354",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " KDD 2021 ",
+    "description": "Snehil Dahiya, Shalini Sharma, Dhruv Sahnan, Vasu Goel, Émilie Chouzenoux, Víctor Elvira, Angshul Majumdar, Anil Bandhakavi, Tanmoy Chakraborty ",
+    "title": "Would Your Tweet Invoke Hate on the Fly? Forecasting Hate Intensity of Reply Threads on Twitter.",
+    "link": "https://doi.org/10.1145/3447548.3467150",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Smart Grid 2020 ",
+    "description": "Shikha Singh , Angshul Majumdar",
+    "title": "Non-Intrusive Load Monitoring via Multi-Label Sparse Representation-Based Classification.",
+    "link": "https://doi.org/10.1109/TSG.2019.2938090",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": "IEEE Trans. Neural Networks Learn. Syst. 2019 ",
+    "description": "Angshul Majumdar",
+    "title": "Blind Denoising Autoencoder.",
+    "link": "https://doi.org/10.1109/TNNLS.2018.2838679",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": "IEEE Trans. Smart Grid 2019 ",
+    "description": "Shikha Singh , Angshul Majumdar",
+    "title": "Analysis Co-Sparse Coding for Energy Disaggregation.",
+    "link": "https://doi.org/10.1109/TSG.2017.2743763",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": "IEEE Trans. Smart Grid 2019 ",
+    "description": "Vanika Singhal, Jyoti Maggu, Angshul Majumdar",
+    "title": "Simultaneous Detection of Multiple Appliances From Smart-Meter Measurements via Multi-Label Consistent Deep Dictionary Learning and Deep Transform Learning.",
+    "link": "https://doi.org/10.1109/TSG.2018.2815763",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": "IEEE Trans. Smart Grid 2018 ",
+    "description": "Manoj Gulati, Shobha Sundar Ram, Angshul Majumdar, Amarjeet Singh ",
+    "title": "Single Point Conducted EMI Sensor With Intelligent Inference for Detecting IT Appliances.",
+    "link": "https://doi.org/10.1109/TSG.2016.2639295",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": "IEEE Trans. Smart Grid 2018 ",
+    "description": "Shikha Singh , Angshul Majumdar",
+    "title": "Deep Sparse Coding for Non-Intrusive Load Monitoring.",
+    "link": "https://doi.org/10.1109/TSG.2017.2666220",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "IEEE Trans. Pattern Anal. Mach. Intell. 2017 ",
+    "description": "Angshul Majumdar, Richa Singh , Mayank Vatsa",
+    "title": "Face Verification via Class Sparsity Based Supervised Encoding.",
+    "link": "https://doi.org/10.1109/TPAMI.2016.2569436",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "IEEE Trans. Biomed. Eng. 2017 ",
+    "description": "Anupriya Gogna, Angshul Majumdar, Rabab Kreidieh Ward",
+    "title": "Semi-supervised Stacked Label Consistent Autoencoder for Reconstruction and Analysis of Biomedical Signals.",
+    "link": "https://doi.org/10.1109/TBME.2016.2631620",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "IEEE Trans. Geosci. Remote. Sens. 2017 ",
+    "description": "Vanika Singhal, Hemant Kumar Aggarwal, Snigdha Tariyal, Angshul Majumdar",
+    "title": "Discriminative Robust Deep Dictionary Learning for Hyperspectral Image Classification.",
+    "link": "https://doi.org/10.1109/TGRS.2017.2704590",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2017 ",
+    "description": "Ishan Manjani, Snigdha Tariyal, Mayank Vatsa, Richa Singh , Angshul Majumdar",
+    "title": "Detecting Silicone Mask-Based Presentation Attack via Deep Dictionary Learning.",
+    "link": "https://doi.org/10.1109/TIFS.2017.2676720",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "IEEE Trans. Image Process. 2017 ",
+    "description": "Naman Kohli, Mayank Vatsa, Richa Singh , Afzel Noore, Angshul Majumdar",
+    "title": "Hierarchical Representation Learning for Kinship Verification.",
+    "link": "https://doi.org/10.1109/TIP.2016.2609811",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": " ICCV 2017 ",
+    "description": "Shruti Nagpal, Maneet Singh, Richa Singh , Mayank Vatsa, Afzel Noore, Angshul Majumdar",
+    "title": "Face Sketch Matching via Coupled Deep Transform Learning.",
+    "link": "https://doi.org/10.1109/ICCV.2017.579",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2015-02-02",
+    "subtitle": "IEEE Trans. Aerosp. Electron. Syst. 2015 ",
+    "description": "Shobha Sundar Ram, Angshul Majumdar",
+    "title": "High-resolution radar imaging of moving humans using doppler processing and compressed sensing.",
+    "link": "https://doi.org/10.1109/TAES.2014.140481",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2012-02-02",
+    "subtitle": "IEEE Trans. Medical Imaging 2012 ",
+    "description": "Angshul Majumdar, Rabab K. Ward, Tyseer Aboulnasr",
+    "title": "Compressed Sensing Based Real-Time Dynamic MRI Reconstruction.",
+    "link": "https://doi.org/10.1109/TMI.2012.2215921",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Circuits Syst. Video Technol. 2022 ",
+    "description": "Monika Jain, Arjun Tyagi, A. Venkata Subramanyam, Simon Denman, Sridha Sridharan, Clinton Fookes",
+    "title": "Channel Graph Regularized Correlation Filters for Visual Object Tracking.",
+    "link": "https://doi.org/10.1109/TCSVT.2021.3063144",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Image Process. 2022 ",
+    "description": "A. Venkata Subramanyam",
+    "title": "Sinkhorn Adversarial Attack and Defense.",
+    "link": "https://doi.org/10.1109/TIP.2022.3180207",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Circuits Syst. Video Technol. 2020 ",
+    "description": "Ambuj Mehrish, Prerna Singh, Puneet Jain, A. Venkata Subramanyam, Mohan S. Kankanhalli",
+    "title": "Egocentric Analysis of Dash-Cam Videos for Vehicle Forensics.",
+    "link": "https://doi.org/10.1109/TCSVT.2019.2929561",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Circuits Syst. Video Technol. 2020 ",
+    "description": "Kajal Kansal, A. Venkata Subramanyam, Zheng Wang , Shin'ichi Satoh ",
+    "title": "SDL: Spectrum-Disentangled Representation Learning for Visible-Infrared Person Re-Identification.",
+    "link": "https://doi.org/10.1109/TCSVT.2019.2963721",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2016-02-02",
+    "subtitle": "ACM Trans. Multim. Comput. Commun. Appl. 2016 ",
+    "description": "Hareesh Ravi, A. Venkata Subramanyam, Sabu Emmanuel",
+    "title": "Forensic Analysis of Linear and Nonlinear Image Filtering Using Quantization Noise.",
+    "link": "https://doi.org/10.1145/2857069",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2023-02-02",
+    "subtitle": "IEEE Trans. Knowl. Data Eng. 2023 ",
+    "description": "Debajyoti Bera, Rameshwar Pratap, Bhisham Dev Verma, Biswadeep Sen, Tanmoy Chakraborty ",
+    "title": "QUINT: Node Embedding Using Network Hashing.",
+    "link": "https://doi.org/10.1109/TKDE.2021.3111997",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2023-02-02",
+    "subtitle": "IEEE Trans. Knowl. Data Eng. 2023 ",
+    "description": "Debajyoti Bera, Rameshwar Pratap, Bhisham Dev Verma",
+    "title": "Dimensionality Reduction for Categorical Data.",
+    "link": "https://doi.org/10.1109/TKDE.2021.3132373",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2018 ",
+    "description": "Debajyoti Bera",
+    "title": "Detection and Diagnosis of Single Faults in Quantum Circuits.",
+    "link": "https://doi.org/10.1109/TCAD.2017.2717783",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "IEEE Trans. Comput. Soc. Syst. 2021 ",
+    "description": "Shravika Mittal, Debarka Sengupta, Tanmoy Chakraborty ",
+    "title": "Hide and Seek: Outwitting Community Detection Algorithms.",
+    "link": "https://doi.org/10.1109/TCSS.2021.3062711",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "IEEE Trans. Neural Networks Learn. Syst. 2017 ",
+    "description": "Debarka Sengupta, Sanghamitra Bandyopadhyay, Debajyoti Sinha",
+    "title": "A Scoring Scheme for Online Feature Selection: Simulating Model Performance Without Retraining.",
+    "link": "https://doi.org/10.1109/TNNLS.2016.2514270",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "IEEE Trans. Affect. Comput. 2021 ",
+    "description": "Jainendra Shukla, Miguel Barreda-Ángeles, Joan Oliver, Gora Chand Nandi, Domenec Puig",
+    "title": "Feature Extraction and Selection for Emotion Recognition from Electrodermal Activity.",
+    "link": "https://doi.org/10.1109/TAFFC.2019.2901673",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " CHI 2021 ",
+    "description": "Vidit Jain, Maitree Leekha, Rajiv Ratn Shah, Jainendra Shukla",
+    "title": "Exploring Semi-Supervised Learning for Predicting Listener Backchannels.",
+    "link": "https://doi.org/10.1145/3411764.3445449",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Circuits Syst. Video Technol. 2022 ",
+    "description": "Koteswar Rao Jerripothula, Prerana Mukherjee, Jianfei Cai , Shijian Lu, Junsong Yuan",
+    "title": "AppFuse: An Appearance Fusion Framework for Saliency Cues.",
+    "link": "https://doi.org/10.1109/TCSVT.2022.3188699",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "IEEE Trans. Image Process. 2021 ",
+    "description": "Koteswar Rao Jerripothula, Jianfei Cai , Jiangbo Lu, Junsong Yuan",
+    "title": "Image Co-Skeletonization via Co-Segmentation.",
+    "link": "https://doi.org/10.1109/TIP.2021.3054464",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Comput. Soc. Syst. 2020 ",
+    "description": "Koteswar Rao Jerripothula, Ankit Rai, Kanu Garg, Yashvardhan Singh Rautela",
+    "title": "Feature-Level Rating System Using Customer Reviews and Review Votes.",
+    "link": "https://doi.org/10.1109/TCSS.2020.3010807",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Affect. Comput. 2022 ",
+    "description": "Md. Shad Akhtar, Deepanway Ghosal, Asif Ekbal, Pushpak Bhattacharyya, Sadao Kurohashi",
+    "title": "All-in-One: Emotion, Sentiment and Intensity Prediction Using a Multi-Task Ensemble Framework.",
+    "link": "https://doi.org/10.1109/TAFFC.2019.2926724",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " AAAI 2022 ",
+    "description": "Poorav Desai, Tanmoy Chakraborty , Md. Shad Akhtar",
+    "title": "Nice Perfume. How Long Did You Marinate in It? Multimodal Sarcasm Explanation.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/21300",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " ACL (1) 2022 ",
+    "description": "Shivani Kumar, Atharva Kulkarni, Md. Shad Akhtar, Tanmoy Chakraborty ",
+    "title": "When did you become so smart, oh wise one?! Sarcasm Explanation in Multi-modal Multi-party Dialogues.",
+    "link": "https://doi.org/10.18653/v1/2022.acl-long.411",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " EMNLP 2022 ",
+    "description": "Megha Sundriyal, Atharva Kulkarni, Vaibhav Pulastya, Md. Shad Akhtar, Tanmoy Chakraborty ",
+    "title": "Empowering the Fact-checkers! Automatic Identification of Claim Spans on Twitter.",
+    "link": "https://aclanthology.org/2022.emnlp-main.525",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " IJCAI 2022 ",
+    "description": "Shivam Sharma, Firoj Alam, Md. Shad Akhtar, Dimitar Dimitrov, Giovanni Da San Martino, Hamed Firooz, Alon Y. Halevy, Fabrizio Silvestri, Preslav Nakov, Tanmoy Chakraborty ",
+    "title": "Detecting and Understanding Harmful Memes: A Survey.",
+    "link": "https://doi.org/10.24963/ijcai.2022/781",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " KDD 2022 ",
+    "description": "Sarah Masud, Manjot Bedi, Mohammad Aflah Khan, Md. Shad Akhtar, Tanmoy Chakraborty ",
+    "title": "Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization.",
+    "link": "https://doi.org/10.1145/3534678.3539161",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " KDD 2022 ",
+    "description": "Aseem Srivastava, Tharun Suresh, Sarah Peregrine Lord, Md. Shad Akhtar, Tanmoy Chakraborty ",
+    "title": "Counseling Summarization Using Mental Health Knowledge Guided Utterance Filtering.",
+    "link": "https://doi.org/10.1145/3534678.3539187",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "IEEE Trans. Comput. Soc. Syst. 2021 ",
+    "description": "Suraj Pandey, Md. Shad Akhtar, Tanmoy Chakraborty ",
+    "title": "Syntactically Coherent Text Augmentation for Sequence Classification.",
+    "link": "https://doi.org/10.1109/TCSS.2021.3075774",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "ACM Trans. Knowl. Discov. Data 2020 ",
+    "description": "Md. Shad Akhtar, Dushyant Singh Chauhan, Asif Ekbal",
+    "title": "A Deep Multi-task Contextual Attention Framework for Multi-modal Affect Analysis.",
+    "link": "https://doi.org/10.1145/3380744",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Netw. Serv. Manag. 2022 ",
+    "description": "Bijoy Chand Chatterjee, Imran Ahmed, Abdul Wadud, Mukulika Maity, Eiji Oki",
+    "title": "BPRIA: Crosstalk-Avoided Bi-Partitioning-Based Counter-Propagation Resource Identification and Allocation for Spectrally-Spatially Elastic Optical Networks.",
+    "link": "https://doi.org/10.1109/TNSM.2022.3158962",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": "IEEE Trans. Mob. Comput. 2018 ",
+    "description": "Mukulika Maity, Bhaskaran Raman, Mythili Vutukuru, Avinash Kumar Chaurasia, Rachit Srivastava",
+    "title": "Witals: AP-Centric Health Diagnosis of WiFi Networks.",
+    "link": "https://doi.org/10.1109/TMC.2017.2739152",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": " MobiCom 2018 ",
+    "description": "Dheryta Jaisinghani, Gursimran Singh, Harish Fulara, Mukulika Maity, Vinayak Naik",
+    "title": "Elixir: Efficient Data Transfer in WiFi-based IoT Nodes.",
+    "link": "https://doi.org/10.1145/3241539.3267717",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "IEEE Trans. Mob. Comput. 2017 ",
+    "description": "Mukulika Maity, Bhaskaran Raman, Mythili Vutukuru",
+    "title": "TCP Download Performance in Dense WiFi Scenarios: Analysis and Solution.",
+    "link": "https://doi.org/10.1109/TMC.2016.2540632",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2015-02-02",
+    "subtitle": " SIGGRAPH Asia Technical Briefs 2015 ",
+    "description": "Ojaswa Sharma, Ranjith Tharayil",
+    "title": "Shape-aware MLS deformation for line handles.",
+    "link": "https://doi.org/10.1145/2820903.2820908",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "IEEE Trans. Software Eng. 2021 ",
+    "description": "Pankaj Jalote, Damodaram Kamma",
+    "title": "Studying Task Processes for Improving Programmer Productivity.",
+    "link": "https://doi.org/10.1109/TSE.2019.2904230",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "ACM Trans. Storage 2020 ",
+    "description": "Muthian Sivathanu, Midhul Vuppalapati, Bhargav S. Gulavani, Kaushik Rajan, Jyoti Leeka, Jayashree Mohan, Piyus Kedia",
+    "title": "INSTalytics: Cluster Filesystem Co-design for Big-data Analytics.",
+    "link": "https://doi.org/10.1145/3369738",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " EuroSys 2019 ",
+    "description": "Ajay Brahmakshatriya, Piyus Kedia, Derrick Paul McKee, Deepak Garg , Akash Lal, Aseem Rastogi, Hamed Nemati, Anmol Panda, Pratik Bhatu",
+    "title": "ConfLLVM: A Compiler for Enforcing Data Confidentiality in Low-Level Code.",
+    "link": "https://doi.org/10.1145/3302424.3303952",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " FAST 2019 ",
+    "description": "Muthian Sivathanu, Midhul Vuppalapati, Bhargav S. Gulavani, Kaushik Rajan, Jyoti Leeka, Jayashree Mohan, Piyus Kedia",
+    "title": "INSTalytics: Cluster Filesystem Co-design for Big-data Analytics.",
+    "link": "https://www.usenix.org/conference/fast19/presentation/sivathanu",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " CHI 2022 ",
+    "description": "Anupriya Tuli, Surbhi Singh, Rikita Narula, Neha Kumar, Pushpendra Singh ",
+    "title": "Rethinking Menstrual Trackers Towards Period-Positive Ecologies.",
+    "link": "https://doi.org/10.1145/3491102.3517662",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " CHI 2022 ",
+    "description": "Deepika Yadav, Kirti Dabas, Prerna Malik, Anushka Bhandari, Pushpendra Singh ",
+    "title": "\"Should I visit the clinic\": Analyzing WhatsApp-mediated Online Health Support for Expectant and New Mothers in Rural India.",
+    "link": "https://doi.org/10.1145/3491102.3517575",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " CHI 2022 ",
+    "description": "Asra Sakeen Wani, Divyanshu Kumar Singh, Pushpendra Singh ",
+    "title": "\"Hartal (Strike) Happens Here Everyday\": Understanding Impact of Disruption on Education in Kashmir.",
+    "link": "https://doi.org/10.1145/3491102.3502126",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "IEEE Trans. Intell. Transp. Syst. 2021 ",
+    "description": "Garvita Bajaj, Pushpendra Singh ",
+    "title": "Understanding Preferences of Delhi Metro Users Using Choice-Based Conjoint Analysis.",
+    "link": "https://doi.org/10.1109/TITS.2019.2958259",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " CHI 2021 ",
+    "description": "Deepika Yadav, Prerna Malik, Kirti Dabas, Pushpendra Singh ",
+    "title": "Illustrating the Gaps and Needs in the Training Support of Community Health Workers in India.",
+    "link": "https://doi.org/10.1145/3411764.3445111",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " CHI 2020 ",
+    "description": "Anupriya Tuli, Shaan Chopra, Pushpendra Singh , Neha Kumar",
+    "title": "Menstrual (Im)Mobilities and Safe Spaces.",
+    "link": "https://doi.org/10.1145/3313831.3376653",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": "ACM Trans. Comput. Hum. Interact. 2019 ",
+    "description": "Anupriya Tuli, Shruti Dalvi, Neha Kumar, Pushpendra Singh ",
+    "title": "\"It's a girl thing\": Examining Challenges and Opportunities around Menstrual Health Education in India.",
+    "link": "https://doi.org/10.1145/3325282",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2016-02-02",
+    "subtitle": " CHI 2016 ",
+    "description": "Konstantinos Kazakos, Siddhartha Asthana, Madeline Balaam, Mona Duggal, Amey Holden, Limalemla Jamir, Nanda Kishore Kannuri, Saurabh Kumar , Amarendar Reddy Manindla, Subhashini Arcot Manikam, G. V. S. Murthy, Papreen Nahar, Peter Phillimore, Shreyaswi Sathyanath, Pushpendra Singh , Meenu Singh, Peter C. Wright, Deepika Yadav, Patrick Olivier",
+    "title": "A Real-Time IVR Platform for Community Radio.",
+    "link": "https://doi.org/10.1145/2858036.2858585",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2015-02-02",
+    "subtitle": " CHI 2015 ",
+    "description": "Siddhartha Asthana, Pushpendra Singh , Parul Gupta",
+    "title": "Survival Analysis: Objective assessment of Wait Time in HCI.",
+    "link": "https://doi.org/10.1145/2702123.2702428",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2023-02-02",
+    "subtitle": "IEEE Trans. Multim. 2023 ",
+    "description": "Astha Verma, A. Venkata Subramanyam, Zheng Wang , Shin'ichi Satoh , Rajiv Ratn Shah",
+    "title": "Unsupervised Domain Adaptation for Person Re-Identification Via Individual-Preserving and Environmental-Switching Cyclic Generation.",
+    "link": "https://doi.org/10.1109/TMM.2021.3126404",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Biom. Behav. Identity Sci. 2022 ",
+    "description": "Mohit Agrawal, Pragyan Mehrotra, Rajesh Kumar, Rajiv Ratn Shah",
+    "title": "GANTouch: An Attack-Resilient Framework for Touch-Based Continuous Authentication System.",
+    "link": "https://doi.org/10.1109/TBIOM.2022.3206321",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Multim. 2022 ",
+    "description": "Yifang Yin, Ying Zhang , Zhenguang Liu, Sheng Wang , Rajiv Ratn Shah, Roger Zimmermann",
+    "title": "GPS2Vec: Pre-Trained Semantic Embeddings for Worldwide GPS Coordinates.",
+    "link": "https://doi.org/10.1109/TMM.2021.3060951",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " AAAI 2022 ",
+    "description": "Yaman Kumar Singla, Swapnil Parekh, Somesh Singh , Changyou Chen, Balaji Krishnamurthy, Rajiv Ratn Shah",
+    "title": "MINIMAL: Mining Models for Universal Adversarial Triggers.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/21384",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " AAAI 2022 ",
+    "description": "Yaman Kumar Singla, Sriram Krishna, Rajiv Ratn Shah, Changyou Chen",
+    "title": "Using Sampling to Estimate and Improve Performance of Automated Scoring Systems with Guarantees.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/21563",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " AAAI 2022 ",
+    "description": "Devansh Gupta, Drishti Bhasin, Sarthak Bhagat, Shagun Uppal, Ponnurangam Kumaraguru, Rajiv Ratn Shah",
+    "title": "Contrastive Personalization Approach to Suspect Identification (Student Abstract).",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/21617",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " AAAI 2021 ",
+    "description": "Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, Tyler Derr, Rajiv Ratn Shah",
+    "title": "Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/16127",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " AAAI 2021 ",
+    "description": "Yifang Yin, Harsh Shrivastava , Ying Zhang , Zhenguang Liu, Rajiv Ratn Shah, Roger Zimmermann",
+    "title": "Enhanced Audio Tagging via Multi- to Single-Modal Teacher-Student Mutual Learning.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/17280",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " EMNLP (1) 2021 ",
+    "description": "Laiba Mehnaz, Debanjan Mahata, Rakesh Gosangi, Uma Sushmitha Gunturi, Riya Jain, Gauri Gupta, Amardeep Kumar, Isabelle G. Lee, Anish Acharya, Rajiv Ratn Shah",
+    "title": "GupShup: Summarizing Open-Domain Code-Switched Conversations.",
+    "link": "https://doi.org/10.18653/v1/2021.emnlp-main.499",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " IJCAI 2021 ",
+    "description": "Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, Rajiv Ratn Shah",
+    "title": "TEC: A Time Evolving Contextual Graph Model for Speaker State Analysis in Political Debates.",
+    "link": "https://doi.org/10.24963/ijcai.2021/489",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " SIGIR 2021 ",
+    "description": "Ramit Sawhney, Shivam Agarwal, Megh Thakkar, Arnav Wadhwa, Rajiv Ratn Shah",
+    "title": "Hyperbolic Online Time Stream Modeling.",
+    "link": "https://doi.org/10.1145/3404835.3463119",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " WWW 2021 ",
+    "description": "Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, Rajiv Ratn Shah",
+    "title": "Exploring the Scale-Free Nature of Stock Markets: Hyperbolic Graph Learning for Algorithmic Trading.",
+    "link": "https://doi.org/10.1145/3442381.3450095",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " AAAI 2020 ",
+    "description": "Mansi Agarwal, Maitree Leekha, Ramit Sawhney, Rajiv Ratn Shah",
+    "title": "Crisis-DIAS: Towards Multimodal Damage Analysis - Deployment, Challenges and Assessment.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/5369",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " AAAI 2020 ",
+    "description": "Shivang Chopra, Ramit Sawhney, Puneet Mathur, Rajiv Ratn Shah",
+    "title": "Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/5374",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " AAAI 2020 ",
+    "description": "Yaman Kumar , Dhruva Sahrawat, Shubham Maheshwari, Debanjan Mahata, Amanda Stent, Yifang Yin, Rajiv Ratn Shah, Roger Zimmermann",
+    "title": "Harnessing GANs for Zero-Shot Learning of New Classes in Visual Speech Recognition.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/5649",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " AAAI 2020 ",
+    "description": "Gyanesh Anand, Akash Kumar Gautam, Puneet Mathur, Debanjan Mahata, Rajiv Ratn Shah, Ramit Sawhney",
+    "title": "An Iterative Approach for Identifying Complaint Based Tweets in Social Media Platforms (Student Abstract).",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/7146",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " AAAI 2020 ",
+    "description": "Anjali Bhavan, Mohit Sharma, Ramit Sawhney, Rajiv Ratn Shah",
+    "title": "Analysis of Parliamentary Debate Transcripts Using Community-Based Graphical Approaches (Student Abstract).",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/7148",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " AAAI 2020 ",
+    "description": "Palak Goenka, Mehak Piplani, Ramit Sawhney, Puneet Mathur, Rajiv Ratn Shah",
+    "title": "ESAS: Towards Practical and Explainable Short Answer Scoring (Student Abstract).",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/7170",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " AAAI 2020 ",
+    "description": "Amit Jindal, Dwaraknath Gnaneshwar, Ramit Sawhney, Rajiv Ratn Shah",
+    "title": "Leveraging BERT with Mixup for Sentence Classification (Student Abstract).",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/7186",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " AAAI 2020 ",
+    "description": "Puneet Mathur, Ramit Sawhney, Rajiv Ratn Shah",
+    "title": "Suicide Risk Assessment via Temporal Psycholinguistic Modeling (Student Abstract).",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/7209",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " AAAI 2020 ",
+    "description": "Shivangi Singhal, Anubha Kabra, Mohit Sharma, Rajiv Ratn Shah, Tanmoy Chakraborty , Ponnurangam Kumaraguru",
+    "title": "SpotFake+: A Multimodal Framework for Fake News Detection via Transfer Learning (Student Abstract).",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/7230",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " AAAI 2020 ",
+    "description": "Avinash Swaminathan, Raj Kuwar Gupta, Haimin Zhang, Debanjan Mahata, Rakesh Gosangi, Rajiv Ratn Shah",
+    "title": "Keyphrase Generation for Scientific Articles Using GANs (Student Abstract).",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/7238",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " ACL (student) 2020 ",
+    "description": "Sharan Pai, Nikhil Sachdeva, Prince Sachdeva, Rajiv Ratn Shah",
+    "title": "Unsupervised Paraphasia Classification in Aphasic Speech.",
+    "link": "https://doi.org/10.18653/v1/2020.acl-srw.3",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " EMNLP (1) 2020 ",
+    "description": "Ramit Sawhney, Harshit Joshi, Saumya Gandhi, Rajiv Ratn Shah",
+    "title": "A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media.",
+    "link": "https://doi.org/10.18653/v1/2020.emnlp-main.619",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " EMNLP (1) 2020 ",
+    "description": "Ramit Sawhney, Piyush Khanna, Arshiya Aggarwal, Taru Jain, Puneet Mathur, Rajiv Ratn Shah",
+    "title": "VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls.",
+    "link": "https://doi.org/10.18653/v1/2020.emnlp-main.643",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " EMNLP (1) 2020 ",
+    "description": "Avinash Swaminathan, Haimin Zhang, Debanjan Mahata, Rakesh Gosangi, Rajiv Ratn Shah, Amanda Stent",
+    "title": "A Preliminary Exploration of GANs for Keyphrase Generation.",
+    "link": "https://doi.org/10.18653/v1/2020.emnlp-main.645",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " EMNLP (1) 2020 ",
+    "description": "Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, Rajiv Ratn Shah",
+    "title": "Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations.",
+    "link": "https://doi.org/10.18653/v1/2020.emnlp-main.676",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " AAAI 2019 ",
+    "description": "Yaman Kumar , Rohit Jain, Khwaja Mohd. Salik, Rajiv Ratn Shah, Yifang Yin, Roger Zimmermann",
+    "title": "Lipper: Synthesizing Thy Speech Using Multi-View Lipreading.",
+    "link": "https://doi.org/10.1609/aaai.v33i01.33012588",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " AAAI 2019 ",
+    "description": "Yaman Kumar , Swati Aggarwal, Debanjan Mahata, Rajiv Ratn Shah, Ponnurangam Kumaraguru, Roger Zimmermann",
+    "title": "Get IT Scored Using AutoSAS - An Automated System for Scoring Short Answers.",
+    "link": "https://doi.org/10.1609/aaai.v33i01.33019662",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " AAAI 2019 ",
+    "description": "Raghav Kapoor, Yaman Kumar , Kshitij Rajput, Rajiv Ratn Shah, Ponnurangam Kumaraguru, Roger Zimmermann",
+    "title": "Mind Your Language: Abuse and Offense Detection for Code-Switched Languages.",
+    "link": "https://doi.org/10.1609/aaai.v33i01.33019951",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " AAAI 2019 ",
+    "description": "Khwaja Mohd. Salik, Swati Aggarwal, Yaman Kumar , Rajiv Ratn Shah, Rohit Jain, Roger Zimmermann",
+    "title": "Lipper: Speaker Independent Speech Synthesis Using Multi-View Lipreading.",
+    "link": "https://doi.org/10.1609/aaai.v33i01.330110023",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " ACL (2) 2019 ",
+    "description": "Arijit Ghosh Chowdhury, Aniket Didolkar, Ramit Sawhney, Rajiv Ratn Shah",
+    "title": "ARHNet - Leveraging Community Interaction for Detection of Religious Hate Speech in Arabic.",
+    "link": "https://doi.org/10.18653/v1/p19-2038",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " ACL (2) 2019 ",
+    "description": "Anjali Bhavan, Rohan Mishra, Pradyumna Prakhar Sinha, Ramit Sawhney, Rajiv Ratn Shah",
+    "title": "Investigating Political Herd Mentality: A Community Sentiment Based Approach.",
+    "link": "https://doi.org/10.18653/v1/p19-2039",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " ACL (1) 2019 ",
+    "description": "Arijit Ghosh Chowdhury, Ramit Sawhney, Rajiv Ratn Shah, Debanjan Mahata",
+    "title": "#YouToo? Detection of Personal Recollections of Sexual Harassment on Social Media.",
+    "link": "https://doi.org/10.18653/v1/p19-1241",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": "ACM Trans. Spatial Algorithms Syst. 2018 ",
+    "description": "Yifang Yin, Rajiv Ratn Shah, Guanfeng Wang, Roger Zimmermann",
+    "title": "Feature-based Map Matching for Low-Sampling-Rate GPS Trajectories.",
+    "link": "https://doi.org/10.1145/3223049",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": "IEEE Trans. Veh. Technol. 2018 ",
+    "description": "Omprakash Kaiwartya, Yue Cao , Jaime Lloret , Sushil Kumar , Nauman Aslam, Rupak Kharel, Abdul Hanan Abdullah, Rajiv Ratn Shah",
+    "title": "Geometry-Based Localization for GPS Outage in Vehicular Cyber Physical Systems.",
+    "link": "https://doi.org/10.1109/TVT.2018.2796242",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Software Eng. 2022 ",
+    "description": "Nikita Mehrotra, Navdha Agarwal, Piyush Gupta, Saket Anand, David Lo , Rahul Purandare",
+    "title": "Modeling Functional Similarity in Source Code With Graph-Based Siamese Networks.",
+    "link": "https://doi.org/10.1109/TSE.2021.3105556",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " ECCV (24) 2022 ",
+    "description": "Ashima Garg, Depanshu Sani, Saket Anand",
+    "title": "Learning Hierarchy Aware Features for Reducing Mistake Severity.",
+    "link": "https://doi.org/10.1007/978-3-031-20053-3_15",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " ECCV (16) 2020 ",
+    "description": "Sharat Agarwal, Himanshu Arora, Saket Anand, Chetan Arora ",
+    "title": "Contextual Diversity for Active Learning.",
+    "link": "https://doi.org/10.1007/978-3-030-58517-4_9",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " ECCV (11) 2020 ",
+    "description": "Lokender Tiwari, Pan Ji, Quoc-Huy Tran, Bingbing Zhuang, Saket Anand, Manmohan Chandraker",
+    "title": "Pseudo RGB-D for Self-improving Monocular SLAM and Depth Prediction.",
+    "link": "https://doi.org/10.1007/978-3-030-58621-8_26",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": " ECCV (3) 2018 ",
+    "description": "Ananya Harsh Jha, Saket Anand, Maneesh Singh , V. S. R. Veeravasarapu",
+    "title": "Disentangling Factors of Variation with Cycle-Consistent Variational Auto-encoders.",
+    "link": "https://doi.org/10.1007/978-3-030-01219-9_49",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": "IEEE Trans. Pattern Anal. Mach. Intell. 2014 ",
+    "description": "Saket Anand, Sushil Mittal, Oncel Tuzel, Peter Meer",
+    "title": "Semi-Supervised Kernel Mean Shift Clustering.",
+    "link": "https://doi.org/10.1109/TPAMI.2013.190",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " WWW 2022 ",
+    "description": "Suman K. Bera , Syamantak Das, Sainyam Galhotra, Sagar Sudhir Kale",
+    "title": "Fair k-Center Clustering in MapReduce and Streaming Settings.",
+    "link": "https://doi.org/10.1145/3485447.3512188",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " SODA 2021 ",
+    "description": "Parinya Chalermsook, Syamantak Das, Yunbum Kook, Bundit Laekhanukit, Yang P. Liu, Richard Peng, Mark Sellke, Daniel Vaz ",
+    "title": "Vertex Sparsification for Edge Connectivity.",
+    "link": "https://doi.org/10.1137/1.9781611976465.74",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "ACM Trans. Priv. Secur. 2022 ",
+    "description": "Jason Crampton, Eduard Eiben, Gregory Z. Gutin, Daniel Karapetyan, Diptapriyo Majumdar",
+    "title": "Valued Authorization Policy Existence Problem: Theory and Experiments.",
+    "link": "https://doi.org/10.1145/3528101",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "ACM Trans. Priv. Secur. 2021 ",
+    "description": "Jason Crampton, Gregory Z. Gutin, Diptapriyo Majumdar",
+    "title": "Towards Better Understanding of User Authorization Query Problem via Multi-variable Complexity Analysis.",
+    "link": "https://doi.org/10.1145/3450768",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2023-02-02",
+    "subtitle": "IEEE Trans. Knowl. Data Eng. 2023 ",
+    "description": "Kaiqiang Yu, Cheng Long, Deepak P , Tanmoy Chakraborty ",
+    "title": "On Efficient Large Maximal Biplex Discovery.",
+    "link": "https://doi.org/10.1109/TKDE.2021.3077071",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " ACL (1) 2022 ",
+    "description": "Subhabrata Dutta, Jeevesh Juneja, Dipankar Das , Tanmoy Chakraborty ",
+    "title": "Can Unsupervised Knowledge Transfer from Social Discussions Help Argument Mining?",
+    "link": "https://doi.org/10.18653/v1/2022.acl-long.536",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": " ICDE 2022 ",
+    "description": "Kaiqiang Yu, Cheng Long, Deepak P , Tanmoy Chakraborty ",
+    "title": "On Efficient Large Maximal Biplex Discovery (Extended abstract).",
+    "link": "https://doi.org/10.1109/ICDE53745.2022.00118",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "IEEE Trans. Dependable Secur. Comput. 2021 ",
+    "description": "Tanmoy Chakraborty , Sushil Jajodia, Jonathan Katz, Antonio Picariello, Giancarlo Sperlì, V. S. Subrahmanian",
+    "title": "A Fake Online Repository Generation Engine for Cyber Deception.",
+    "link": "https://doi.org/10.1109/TDSC.2019.2898661",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": "ACM Trans. Intell. Syst. Technol. 2021 ",
+    "description": "Hridoy Sankar Dutta, Mayank Jobanputra, Himani Negi, Tanmoy Chakraborty ",
+    "title": "Detecting and Analyzing Collusive Entities on YouTube.",
+    "link": "https://doi.org/10.1145/3477300",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " AAAI 2021 ",
+    "description": "Anubhav Shrimal, Tanmoy Chakraborty ",
+    "title": "Attention Beam: An Image Captioning Approach (Student Abstract).",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/17940",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " AAAI 2021 ",
+    "description": "Siddharth Yadav, Tanmoy Chakraborty ",
+    "title": "Zera-Shot Sentiment Analysis for Code-Mixed Data.",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/17967",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " ICDE 2021 ",
+    "description": "Sarah Masud, Subhabrata Dutta, Sakshi Makkar, Chhavi Jain, Vikram Goyal, Amitava Das, Tanmoy Chakraborty ",
+    "title": "Hate is the New Infodemic: A Topic-aware Modeling of Hate Speech Diffusion on Twitter.",
+    "link": "https://doi.org/10.1109/ICDE51399.2021.00050",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " NeurIPS 2021 ",
+    "description": "Subhabrata Dutta, Tanya Gautam, Soumen Chakrabarti, Tanmoy Chakraborty ",
+    "title": "Redesigning the Transformer Architecture with Insights from Multi-particle Dynamical Systems.",
+    "link": "https://proceedings.neurips.cc/paper/2021/hash/2bd388f731f26312bfc0fe30da009595-Abstract.html",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Comput. Soc. Syst. 2020 ",
+    "description": "Viresh Gupta, Aayush Aggarwal, Tanmoy Chakraborty ",
+    "title": "Detecting and Characterizing Extremist Reviewer Groups in Online Product Reviews.",
+    "link": "https://doi.org/10.1109/TCSS.2020.2988098",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Dependable Secur. Comput. 2020 ",
+    "description": "Tanmoy Chakraborty , Fabio Pierazzi, V. S. Subrahmanian",
+    "title": "EC2: Ensemble Clustering and Classification for Predicting Android Malware Families.",
+    "link": "https://doi.org/10.1109/TDSC.2017.2739145",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2020 ",
+    "description": "Hridoy Sankar Dutta, Tanmoy Chakraborty ",
+    "title": "Blackmarket-Driven Collusion Among Retweeters-Analysis, Detection, and Characterization.",
+    "link": "https://doi.org/10.1109/TIFS.2019.2953331",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2020 ",
+    "description": "Hridoy Sankar Dutta, Vishal Raj Dutta, Aditya Adhikary, Tanmoy Chakraborty ",
+    "title": "HawkesEye: Detecting Fake Retweeters Using Hawkes Process and Topic Modeling.",
+    "link": "https://doi.org/10.1109/TIFS.2020.2970601",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "ACM Trans. Intell. Syst. Technol. 2020 ",
+    "description": "Udit Arora, Hridoy Sankar Dutta, Brihi Joshi, Aditya Chetan, Tanmoy Chakraborty ",
+    "title": "Analyzing and Detecting Collusive Users Involved in Blackmarket Retweeting Activities.",
+    "link": "https://doi.org/10.1145/3380537",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " IJCAI 2020 ",
+    "description": "Tanya Chowdhury, Sachin Kumar , Tanmoy Chakraborty ",
+    "title": "Neural Abstractive Summarization with Structural Attention.",
+    "link": "https://doi.org/10.24963/ijcai.2020/514",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": " KDD 2020 ",
+    "description": "Subhabrata Dutta, Sarah Masud, Soumen Chakrabarti, Tanmoy Chakraborty ",
+    "title": "Deep Exogenous and Endogenous Influence Combination for Social Chatter Intensity Prediction.",
+    "link": "https://doi.org/10.1145/3394486.3403251",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": "ACM Trans. Intell. Syst. Technol. 2019 ",
+    "description": "Deepak Thukral, Adesh Pandey, Rishabh Gupta, Vikram Goyal, Tanmoy Chakraborty ",
+    "title": "DiffQue: Estimating Relative Difficulty of Questions in Community Question Answering Services.",
+    "link": "https://doi.org/10.1145/3337799",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " AAAI 2019 ",
+    "description": "Di Jin , Xinxin You, Weihao Li, Dongxiao He, Peng Cui, Françoise Fogelman-Soulié, Tanmoy Chakraborty ",
+    "title": "Incorporating Network Embedding into Markov Random Field for Better Community Detection.",
+    "link": "https://doi.org/10.1609/aaai.v33i01.3301160",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " AAAI 2019 ",
+    "description": "Divam Gupta, Tanmoy Chakraborty , Soumen Chakrabarti",
+    "title": "GIRNet: Interleaved Multi-Task Recurrent State Sequence Models.",
+    "link": "https://doi.org/10.1609/aaai.v33i01.33016497",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " IJCAI 2019 ",
+    "description": "Sarthika Dhawan, Siva Charan Reddy Gangireddy, Shiv Kumar, Tanmoy Chakraborty ",
+    "title": "Spotting Collective Behaviour of Online Frauds in Customer Reviews.",
+    "link": "https://doi.org/10.24963/ijcai.2019/35",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " SIGIR 2019 ",
+    "description": "Arpan Mukherjee, Shubhi Tiwari, Tanya Chowdhury, Tanmoy Chakraborty ",
+    "title": "Automatic Curation of Content Tables for Educational Videos.",
+    "link": "https://doi.org/10.1145/3331184.3331400",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": " WWW 2018 ",
+    "description": "Srishti Gupta, Abhinav Khattar, Arpit Gogia, Ponnurangam Kumaraguru, Tanmoy Chakraborty ",
+    "title": "Collective Classification of Spam Campaigners on Twitter: A Hierarchical Meta-Path Based Approach.",
+    "link": "https://doi.org/10.1145/3178876.3186119",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": " AAAI 2017 ",
+    "description": "Tushar Maheshwari, Aishwarya N. Reganti, Upendra Kumar, Tanmoy Chakraborty , Amitava Das",
+    "title": "Semantic Interpretation of Social Network Communities.",
+    "link": "http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14352",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " AAAI 2021 ",
+    "description": "Gunjan Singh, Sutapa Mondal, Sumit Bhatia, Raghava Mutharaju",
+    "title": "Neuro-Symbolic Techniques for Description Logic Reasoning (Student Abstract).",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/17942",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " AAAI Spring Symposium: Combining Machine Learning with Knowledge Engineering 2021 ",
+    "description": "Sutapa Mondal, Sumit Bhatia, Raghava Mutharaju",
+    "title": "EmEL++: Embeddings for EL++ Description Logic.",
+    "link": "https://ceur-ws.org/Vol-2846/paper19.pdf",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " SC 2021 ",
+    "description": "Sunil Kumar , Akshat Gupta, Vivek Kumar , Sridutt Bhalachandra",
+    "title": "Cuttlefish: library for achieving energy efficiency in multicore parallel programs.",
+    "link": "https://doi.org/10.1145/3458817.3476163",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2009-02-02",
+    "subtitle": " ICDE 2009 ",
+    "description": "Dongxiang Zhang, Yeow Meng Chee, Anirban Mondal, Anthony K. H. Tung, Masaru Kitsuregawa",
+    "title": "Keyword Search in Spatial Databases: Towards Searching by Document.",
+    "link": "https://doi.org/10.1109/ICDE.2009.77",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2010-02-02",
+    "subtitle": " USENIX Security Symposium 2010 ",
+    "description": "Shishir Nagaraja, Prateek Mittal, Chi-Yao Hong, Matthew Caesar , Nikita Borisov",
+    "title": "BotGrep: Finding P2P Bots with Structured Graph Analysis.",
+    "link": "http://www.usenix.org/events/sec10/tech/full_papers/Nagaraja.pdf",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2013-02-02",
+    "subtitle": " ICDE 2013 ",
+    "description": "Stephan Seufert, Avishek Anand, Srikanta J. Bedathur, Gerhard Weikum",
+    "title": "FERRARI: Flexible and efficient reachability range assignment for graph indexing.",
+    "link": "https://doi.org/10.1109/ICDE.2013.6544893",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2012-02-02",
+    "subtitle": " SIGIR 2012 ",
+    "description": "Avishek Anand, Srikanta J. Bedathur, Klaus Berberich, Ralf Schenkel",
+    "title": "Index maintenance for time-travel text search.",
+    "link": "https://doi.org/10.1145/2348283.2348318",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2011-02-02",
+    "subtitle": " SIGIR 2011 ",
+    "description": "Avishek Anand, Srikanta J. Bedathur, Klaus Berberich, Ralf Schenkel",
+    "title": "Temporal index sharding for space-time efficiency in archive search.",
+    "link": "https://doi.org/10.1145/2009916.2009991",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": "IEEE Trans. Commun. 2014 ",
+    "description": "Gaurav Gupta, Ajit Kumar Chaturvedi",
+    "title": "User Selection in MIMO Interfering Broadcast Channels.",
+    "link": "https://doi.org/10.1109/TCOMM.2014.031614.130618",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": " WWW 2014 ",
+    "description": "Denzil Correa, Ashish Sureka",
+    "title": "Chaff from the wheat: characterization and modeling of deleted questions on stack overflow.",
+    "link": "https://doi.org/10.1145/2566486.2568036",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": " SIGCOMM 2014 ",
+    "description": "Colin Scott, Andreas Wundsam, Barath Raghavan, Aurojit Panda, Andrew Or, Jefferson Lai, Eugene Huang, Zhi Liu, Ahmed El-Hassany, Sam Whitlock, Hrishikesh B. Acharya, Kyriakos Zarifis, Scott Shenker",
+    "title": "Troubleshooting blackbox SDN control software with minimal causal sequences.",
+    "link": "https://doi.org/10.1145/2619239.2626304",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2015-02-02",
+    "subtitle": " IJCAI 2015 ",
+    "description": "Mike Phillips, Venkatraman Narayanan, Sandip Aine, Maxim Likhachev",
+    "title": "Efficient Search with an Ensemble of Heuristics.",
+    "link": "http://ijcai.org/Abstract/15/116",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2013-02-02",
+    "subtitle": " AAAI 2013 ",
+    "description": "Sandip Aine, Maxim Likhachev",
+    "title": "Truncated Incremental Search: Faster Replanning by Exploiting Suboptimality.",
+    "link": "http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6446",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2016-02-02",
+    "subtitle": " MICRO 2016 ",
+    "description": "Amirali Sharifian, Snehasish Kumar, Apala Guha, Arrvindh Shriraman",
+    "title": "Chainsaw: Von-neumann accelerators to leverage fused instruction chains.",
+    "link": "https://doi.org/10.1109/MICRO.2016.7783752",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2015-02-02",
+    "subtitle": "IEEE Trans. Knowl. Data Eng. 2015 ",
+    "description": "Venkata M. V. Gunturi, Shashi Shekhar, KwangSoo Yang",
+    "title": "A Critical-Time-Point Approach to All-Departure-Time Lagrangian Shortest Paths.",
+    "link": "https://doi.org/10.1109/TKDE.2015.2426701",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "ACM Trans. Sens. Networks 2017 ",
+    "description": "Erin Griffiths, Avinash Kalyanaraman, Juhi Ranjan, Kamin Whitehouse",
+    "title": "An Empirical Design Space Analysis of Doorway Tracking Systems for Real-World Environments.",
+    "link": "https://doi.org/10.1145/3089157",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": "IEEE Trans. Circuits Syst. Video Technol. 2018 ",
+    "description": "Tavi Halperin, Yair Poleg, Chetan Arora , Shmuel Peleg",
+    "title": "EgoSampling: Wide View Hyperlapse From Egocentric Videos.",
+    "link": "https://doi.org/10.1109/TCSVT.2017.2651051",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": " CVPR 2018 ",
+    "description": "Ishant Shanu, Chetan Arora , S. N. Maheshwari",
+    "title": "Inference in Higher Order MRF-MAP Problems With Small and Large Cliques.",
+    "link": "http://openaccess.thecvf.com/content_cvpr_2018/html/Shanu_Inference_in_Higher_CVPR_2018_paper.html",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": " IJCAI 2017 ",
+    "description": "Bharat Lal Bhatnagar, Suriya Singh, Chetan Arora , C. V. Jawahar",
+    "title": "Unsupervised Learning of Deep Feature Representation for Clustering Egocentric Actions.",
+    "link": "https://doi.org/10.24963/ijcai.2017/200",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2016-02-02",
+    "subtitle": " CVPR 2016 ",
+    "description": "Suriya Singh, Chetan Arora , C. V. Jawahar",
+    "title": "First Person Action Recognition Using Deep Learned Descriptors.",
+    "link": "https://doi.org/10.1109/CVPR.2016.287",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2016-02-02",
+    "subtitle": " CVPR 2016 ",
+    "description": "Ishant Shanu, Chetan Arora , Parag Singla",
+    "title": "Min Norm Point Algorithm for Higher Order MRF-MAP Inference.",
+    "link": "https://doi.org/10.1109/CVPR.2016.579",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2015-02-02",
+    "subtitle": "IEEE Trans. Pattern Anal. Mach. Intell. 2015 ",
+    "description": "Chetan Arora , Subhashis Banerjee, Prem Kumar Kalra, S. N. Maheshwari",
+    "title": "Generalized Flows for Optimal Inference in Higher Order MRF-MAP.",
+    "link": "https://doi.org/10.1109/TPAMI.2014.2388218",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2015-02-02",
+    "subtitle": " CVPR 2015 ",
+    "description": "Yair Poleg, Tavi Halperin, Chetan Arora , Shmuel Peleg",
+    "title": "EgoSampling: Fast-forward and stereo for egocentric videos.",
+    "link": "https://doi.org/10.1109/CVPR.2015.7299109",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": " CVPR 2014 ",
+    "description": "Chetan Arora , Subhashis Banerjee, Prem Kumar Kalra, S. N. Maheshwari",
+    "title": "Fast Approximate Inference in Higher Order MRF-MAP Labeling Problems.",
+    "link": "https://doi.org/10.1109/CVPR.2014.174",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": " CVPR 2014 ",
+    "description": "Chetan Arora , S. N. Maheshwari",
+    "title": "Multi-label Generic Cuts: Optimal Inference in Multi-label Multi-clique MRF-MAP Problems.",
+    "link": "https://doi.org/10.1109/CVPR.2014.175",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": " CVPR 2014 ",
+    "description": "Yair Poleg, Chetan Arora , Shmuel Peleg",
+    "title": "Temporal Segmentation of Egocentric Videos.",
+    "link": "https://doi.org/10.1109/CVPR.2014.325",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2013-02-02",
+    "subtitle": " UbiComp (Adjunct Publication) 2013 ",
+    "description": "Vigneshwaran Subbaraju, Amit Kumar , Vikrant Nandakumar, Sonali Batra, Salil S. Kanhere, Pradipta De, Vinayak S. Naik, Dipanjan Chakraborty , Archan Misra",
+    "title": "ConferenceSense: monitoring of public events using phone sensors.",
+    "link": "https://doi.org/10.1145/2494091.2499775",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2012-02-02",
+    "subtitle": " MobiSys 2012 ",
+    "description": "Kuldeep Yadav, Vibhas Kumar, Shrey Jairath, Rushil Khurana, Vinayak S. Naik, Amarjeet Singh ",
+    "title": "Poster: cloud-enabled content search and sharing system for mobile phones (MobiShare).",
+    "link": "https://doi.org/10.1145/2307636.2307714",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": "IEEE Trans. Biom. Behav. Identity Sci. 2019 ",
+    "description": "Mayank Vatsa, Mark S. Nixon",
+    "title": "Editorial Introducing the IEEE Transactions on Biometrics, Behavior, and Identity Science.",
+    "link": "https://doi.org/10.1109/TBIOM.2019.2900745",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": "IEEE Trans. Biom. Behav. Identity Sci. 2019 ",
+    "description": "Maneet Singh, Richa Singh , Mayank Vatsa, Nalini K. Ratha, Rama Chellappa",
+    "title": "Recognizing Disguised Faces in the Wild.",
+    "link": "https://doi.org/10.1109/TBIOM.2019.2903860",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": "IEEE Trans. Image Process. 2019 ",
+    "description": "Naman Kohli, Daksha Yadav, Mayank Vatsa, Richa Singh , Afzel Noore",
+    "title": "Supervised Mixed Norm Autoencoder for Kinship Verification in Unconstrained Videos.",
+    "link": "https://doi.org/10.1109/TIP.2018.2840880",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " AAAI 2019 ",
+    "description": "Rohit Keshari, Richa Singh , Mayank Vatsa",
+    "title": "Guided Dropout.",
+    "link": "https://doi.org/10.1609/aaai.v33i01.33014065",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " AAAI 2019 ",
+    "description": "Saheb Chhabra, Puspita Majumdar, Mayank Vatsa, Richa Singh ",
+    "title": "Data Fine-Tuning.",
+    "link": "https://doi.org/10.1609/aaai.v33i01.33018223",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " CVPR 2019 ",
+    "description": "Soumyadeep Ghosh, Richa Singh , Mayank Vatsa",
+    "title": "On Learning Density Aware Embeddings.",
+    "link": "http://openaccess.thecvf.com/content_CVPR_2019/html/Ghosh_On_Learning_Density_Aware_Embeddings_CVPR_2019_paper.html",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " ICCV 2019 ",
+    "description": "Maneet Singh, Shruti Nagpal, Richa Singh , Mayank Vatsa",
+    "title": "Dual Directed Capsule Network for Very Low Resolution Image Recognition.",
+    "link": "https://doi.org/10.1109/ICCV.2019.00043",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": " AAAI 2018 ",
+    "description": "Gaurav Goswami, Nalini K. Ratha, Akshay Agarwal , Richa Singh , Mayank Vatsa",
+    "title": "Unravelling Robustness of Deep Learning Based Face Recognition Against Adversarial Attacks.",
+    "link": "https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17334",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": " CVPR 2018 ",
+    "description": "Rohit Keshari, Mayank Vatsa, Richa Singh , Afzel Noore",
+    "title": "Learning Structure and Strength of CNN Filters for Small Sample Size Training.",
+    "link": "http://openaccess.thecvf.com/content_cvpr_2018/html/Keshari_Learning_Structure_and_CVPR_2018_paper.html",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2017 ",
+    "description": "Gaurav Goswami, Mayank Vatsa, Richa Singh ",
+    "title": "Face Verification via Learned Representation on Feature-Rich Video Frames.",
+    "link": "https://doi.org/10.1109/TIFS.2017.2668221",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2016-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2016 ",
+    "description": "Samarth Bharadwaj, Himanshu S. Bhatt, Mayank Vatsa, Richa Singh ",
+    "title": "Domain Specific Learning for Newborn Face Recognition.",
+    "link": "https://doi.org/10.1109/TIFS.2016.2538744",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2016-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2016 ",
+    "description": "Aparna Bharati, Richa Singh , Mayank Vatsa, Kevin W. Bowyer",
+    "title": "Detecting Facial Retouching Using Supervised Deep Learning.",
+    "link": "https://doi.org/10.1109/TIFS.2016.2561898",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2014 ",
+    "description": "Daksha Yadav, Naman Kohli, James S. Doyle Jr., Richa Singh , Mayank Vatsa, Kevin W. Bowyer",
+    "title": "Unraveling the Effect of Textured Contact Lenses on Iris Recognition.",
+    "link": "https://doi.org/10.1109/TIFS.2014.2313025",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2014 ",
+    "description": "Himanshu S. Bhatt, Richa Singh , Mayank Vatsa",
+    "title": "On Recognizing Faces in Videos Using Clustering-Based Re-Ranking and Fusion.",
+    "link": "https://doi.org/10.1109/TIFS.2014.2318433",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2014 ",
+    "description": "Gaurav Goswami, Mayank Vatsa, Richa Singh ",
+    "title": "RGB-D Face Recognition With Texture and Attribute Features.",
+    "link": "https://doi.org/10.1109/TIFS.2014.2343913",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": "IEEE Trans. Image Process. 2014 ",
+    "description": "Himanshu S. Bhatt, Richa Singh , Mayank Vatsa, Nalini K. Ratha",
+    "title": "Improving Cross-Resolution Face Matching Using Ensemble-Based Co-Transfer Learning.",
+    "link": "https://doi.org/10.1109/TIP.2014.2362658",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2013-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2013 ",
+    "description": "Himanshu S. Bhatt, Samarth Bharadwaj, Richa Singh , Mayank Vatsa",
+    "title": "Recognizing Surgically Altered Face Images Using Multiobjective Evolutionary Algorithm.",
+    "link": "https://doi.org/10.1109/TIFS.2012.2223684",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2012-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2012 ",
+    "description": "Himanshu S. Bhatt, Samarth Bharadwaj, Richa Singh , Mayank Vatsa",
+    "title": "Memetically Optimized MCWLD for Matching Sketches With Digital Face Images.",
+    "link": "https://doi.org/10.1109/TIFS.2012.2204252",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2010-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2010 ",
+    "description": "Richa Singh , Mayank Vatsa, Himanshu S. Bhatt, Samarth Bharadwaj, Afzel Noore, Shahin S. Nooreyezdan",
+    "title": "Plastic surgery: a new dimension to face recognition.",
+    "link": "https://doi.org/10.1109/TIFS.2010.2054083",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2010-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2010 ",
+    "description": "Mayank Vatsa, Richa Singh , Afzel Noore, Arun Ross",
+    "title": "On the dynamic selection of biometric fusion algorithms.",
+    "link": "https://doi.org/10.1109/TIFS.2010.2056683",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2009-02-02",
+    "subtitle": "IEEE Trans. Syst. Man Cybern. Part A 2009 ",
+    "description": "Mayank Vatsa, Richa Singh , Afzel Noore",
+    "title": "Unification of Evidence-Theoretic Fusion Algorithms: A Case Study in Level-2 and Level-3 Fingerprint Features.",
+    "link": "https://doi.org/10.1109/TSMCA.2008.2007981",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Software Eng. 2020 ",
+    "description": "Rahul Mohanani, Iflaah Salman, Burak Turhan, Pilar Rodríguez , Paul Ralph",
+    "title": "Cognitive Biases in Software Engineering: A Systematic Mapping Study.",
+    "link": "https://doi.org/10.1109/TSE.2018.2877759",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " AAAI 2021 ",
+    "description": "Anmol Goel, Ponnurangam Kumaraguru",
+    "title": "Detecting Lexical Semantic Change across Corpora with Smooth Manifolds (Student Abstract).",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/17888",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " WWW 2019 ",
+    "description": "Arpit Merchant, Daksh Shah, Gurpreet Singh Bhatia, Anurag Ghosh, Ponnurangam Kumaraguru",
+    "title": "Signals Matter: Understanding Popularity and Impact of Users on Stack Overflow.",
+    "link": "https://doi.org/10.1145/3308558.3313583",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2018-02-02",
+    "subtitle": " ACL (3) 2018 ",
+    "description": "Kushagra Singh, Indira Sen, Ponnurangam Kumaraguru",
+    "title": "Language Identification and Named Entity Recognition in Hinglish Code Mixed Tweets.",
+    "link": "https://aclanthology.org/P18-3008/",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2017-02-02",
+    "subtitle": " CHI 2017 ",
+    "description": "Shrey Bagroy, Ponnurangam Kumaraguru, Munmun De Choudhury",
+    "title": "A Social Media Based Index of Mental Well-Being in College Campuses.",
+    "link": "https://doi.org/10.1145/3025453.3025909",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2012-02-02",
+    "subtitle": " UbiComp 2012 ",
+    "description": "Tatiana Pontes, Marisa A. Vasconcelos, Jussara M. Almeida, Ponnurangam Kumaraguru, Virgílio A. F. Almeida",
+    "title": "We know where you live: privacy characterization of foursquare behavior.",
+    "link": "https://doi.org/10.1145/2370216.2370419",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2011-02-02",
+    "subtitle": " CHI 2011 ",
+    "description": "Rohit Ashok Khot, Kannan Srinathan, Ponnurangam Kumaraguru",
+    "title": "MARASIM: a novel jigsaw based authentication scheme using tagging.",
+    "link": "https://doi.org/10.1145/1978942.1979322",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2010-02-02",
+    "subtitle": "ACM Trans. Internet Techn. 2010 ",
+    "description": "Ponnurangam Kumaraguru, Steve Sheng, Alessandro Acquisti, Lorrie Faith Cranor, Jason I. Hong",
+    "title": "Teaching Johnny not to fall for phish.",
+    "link": "https://doi.org/10.1145/1754393.1754396",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2010-02-02",
+    "subtitle": " CHI 2010 ",
+    "description": "Steve Sheng, Mandy B. Holbrook, Ponnurangam Kumaraguru, Lorrie Faith Cranor, Julie S. Downs",
+    "title": "Who falls for phish?: a demographic analysis of phishing susceptibility and effectiveness of interventions.",
+    "link": "https://doi.org/10.1145/1753326.1753383",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "ACM Trans. Softw. Eng. Methodol. 2022 ",
+    "description": "Ridhi Jain, Rahul Purandare, Subodh Sharma ",
+    "title": "BiRD: Race Detection in Software Binaries under Relaxed Memory Models.",
+    "link": "https://doi.org/10.1145/3498538",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Software Eng. 2022 ",
+    "description": "Devika Sondhi, Mayank Jobanputra, Divya Rani, Salil Purandare, Sakshi Sharma, Rahul Purandare",
+    "title": "Mining Similar Methods for Test Adaptation.",
+    "link": "https://doi.org/10.1109/TSE.2021.3057163",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2022-02-02",
+    "subtitle": "IEEE Trans. Software Eng. 2022 ",
+    "description": "Gede Artha Azriadi Prana, Denae Ford, Ayushi Rastogi, David Lo , Rahul Purandare, Nachiappan Nagappan",
+    "title": "Including Everyone, Everywhere: Understanding Opportunities and Challenges of Geographic Gender-Inclusion in OSS.",
+    "link": "https://doi.org/10.1109/TSE.2021.3092813",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2021-02-02",
+    "subtitle": " ICSE 2021 ",
+    "description": "Devika Sondhi, Avyakt Gupta, Salil Purandare, Ankit Rana, Deepanshu Kaushal, Rahul Purandare",
+    "title": "On Indirectly Dependent Documentation in the Context of Code Evolution: A Study.",
+    "link": "https://doi.org/10.1109/ICSE43902.2021.00134",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2019-02-02",
+    "subtitle": " ASE 2019 ",
+    "description": "Devika Sondhi, Rahul Purandare",
+    "title": "SEGATE: Unveiling Semantic Inconsistencies between Code and Specification of String Inputs.",
+    "link": "https://doi.org/10.1109/ASE.2019.00028",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2016-02-02",
+    "subtitle": " RTSS 2016 ",
+    "description": "Sangeeth Kochanthara, Geoffrey Nelissen, David Pereira, Rahul Purandare",
+    "title": "REVERT: Runtime Verification for Real-Time Systems.",
+    "link": "https://doi.org/10.1109/RTSS.2016.044",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2016-02-02",
+    "subtitle": " SIGSOFT FSE 2016 ",
+    "description": "Sukrit Kalra, Ayush Goel, Dhriti Khanna, Mohan Dhawan, Subodh Sharma , Rahul Purandare",
+    "title": "POLLUX: safely upgrading dependent application libraries.",
+    "link": "https://doi.org/10.1145/2950290.2950345",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2015-02-02",
+    "subtitle": " ESEC/SIGSOFT FSE 2015 ",
+    "description": "Aritra Dhar, Rahul Purandare, Mohan Dhawan, Suresh Rangaswamy",
+    "title": "CLOTHO: saving programs from malformed strings and incorrect string-handling.",
+    "link": "https://doi.org/10.1145/2786805.2786877",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2013-02-02",
+    "subtitle": " ISSTA 2013 ",
+    "description": "Rahul Purandare, Matthew B. Dwyer, Sebastian G. Elbaum",
+    "title": "Optimizing monitoring of finite state properties through monitor compaction.",
+    "link": "https://doi.org/10.1145/2483760.2483762",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2020-02-02",
+    "subtitle": "IEEE Trans. Inf. Forensics Secur. 2020 ",
+    "description": "Donghoon Chang, Surabhi Garg, Munawar Hasan, Sweta Mishra",
+    "title": "Cancelable Multi-Biometric Approach Using Fuzzy Extractor and Novel Bit-Wise Encryption.",
+    "link": "https://doi.org/10.1109/TIFS.2020.2983250",
+    "category": ["Publications"]
+  },
+  {
+    "date": "2014-02-02",
+    "subtitle": " FOCS 2014 ",
+    "description": "Nabil H. Mustafa, Rajiv Raman , Saurabh Ray",
+    "title": "Settling the APX-Hardness Status for Geometric Set Cover.",
+    "link": "https://doi.org/10.1109/FOCS.2014.64",
+    "category": ["Publications"]
+  }
+]

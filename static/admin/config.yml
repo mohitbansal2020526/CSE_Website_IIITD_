@@ -1,0 +1,89 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: static/images/uploads
+public_folder: /images/uploads
+publish_mode: editorial_workflow
+
+collections:
+  - label: Articles
+    name: articles
+    extension: json
+    format: json
+    folder: site/content/articles
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+      - { label: Media, name: media, widget: image, allow_multiple: true }
+  - label: Cards
+    name: cards
+    folder: site/content/cards
+    extension: json
+    create: true
+    fields:
+      - label: Image
+        name: image
+        widget: image
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { label: Title, name: title, widget: string }
+      -
+        label: "Date (if relevant)"
+        name: "date"
+        widget: "datetime"
+        picker_utc: true
+        format: "YYYY-MM-DD"
+        required: false
+      - { label: Description, name: description, widget: text }
+      - { label: Link, name: link, widget: string, required: false }
+      - {
+          label: Subtitle,
+          name: subtitle,
+          widget: string,
+          required: false,
+        }
+      - label: Category
+        name: category
+        widget: select
+        required: false
+        options:
+          [
+            "Homepage",
+            "Labs",
+            "Publications",
+            "Projects",
+            "Patents",
+            "Faculty",
+            "Media Coverage",
+            "Events",
+          ]
+        multiple: true
+  - label: Pages
+    name: pages
+    folder: site/pages
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Slug
+        name: slug
+        widget: string
+      - label: Body
+        name: body
+        widget: markdown
+  - name: faculty
+    label: Faculty
+    folder: content/faculty
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
+      - { name: description, label: Description }
+      - { name: body, label: Body, widget: markdown }
+

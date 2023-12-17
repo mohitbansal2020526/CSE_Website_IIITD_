@@ -1,0 +1,5 @@
+.heading {
+    color: #5785ca;
+    transition: all 0.1s ease-in-out;
+    font-weight: bold;
+}

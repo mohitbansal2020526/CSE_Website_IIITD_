@@ -1,0 +1,50 @@
+.course-table {
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  overflow-x: auto;
+}
+
+.course-table thead {
+  background: #d7d8dd;
+}
+
+.course-table td,
+th {
+  border: solid 1px #1c1d1f65;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.course-table .tag {
+  padding: 0.25rem;
+  margin: 0.125rem 0;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.course-name {
+  white-space: nowrap;
+}
+
+.course-link {
+  display: flex;
+  align-items: center;
+}
+
+.course-link:hover {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.course-code {
+  width: min-content;
+}
+
+.monsoon {
+  background: #954f8f5d;
+}
+
+.winter {
+  background: #3e9ec75d;
+}
