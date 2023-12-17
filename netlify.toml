@@ -1,12 +1,10 @@
 [build]
-  command = "npm run build" # Use npm to run the build command
   functions = "netlify/functions"
   publish = "public"
 
-[[plugins]] # Add plugins section for Netlify plugins
+[[plugins]]
   package = "@netlify/plugin-gatsby"
-  [plugins.inputs]
-    command = "npm run build"
+  inputs = {}
 
 [[redirects]] # Uncomment if you have client-side routing (e.g., for SPAs)
   from = "/*"
