@@ -15,10 +15,6 @@ const Eventscard = props => {
     // Add any additional styles as needed
   };
 
-  const descriptionStyle = {
-    fontSize: "0.6rem", // Adjust the font size as needed
-  };
-
   return (
     <div style={cardStyle} className="eventscard-container">
       <div className="eventContainer">
@@ -34,7 +30,9 @@ const Eventscard = props => {
             {props.title}
           </Link>
           <br />
-          <p style={descriptionStyle}>{props.description}</p>
+          <p >
+            {props.description}
+          </p>
         </div>
       </div>
       <hr style={style} />
