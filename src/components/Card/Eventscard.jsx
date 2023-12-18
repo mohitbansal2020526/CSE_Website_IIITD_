@@ -1,3 +1,5 @@
+// Eventscard.jsx
+
 import React from "react"
 import "../Layout.css"
 import { Link } from "gatsby"
@@ -5,9 +7,20 @@ import { Link } from "gatsby"
 const Eventscard = props => {
   let style = {
     margin: "1vw",
-  }
+  };
+
+  // Add the styles directly in the component file
+  const cardStyle = {
+    overflow: "hidden", // or overflow: auto;
+    // Add any additional styles as needed
+  };
+
+  const descriptionStyle = {
+    fontSize: "0.6rem", // Adjust the font size as needed
+  };
+
   return (
-    <div>
+    <div style={cardStyle} className="eventscard-container">
       <div className="eventContainer">
         <div className="eventItem-left">
           <div className="date">
@@ -17,8 +30,11 @@ const Eventscard = props => {
         </div>
 
         <div className="eventItem-right">
-          <Link to = {props.link} className="right-link">{props.title}</Link><br/>
-          {props.description}
+          <Link to={props.link} className="right-link">
+            {props.title}
+          </Link>
+          <br />
+          <p style={descriptionStyle}>{props.description}</p>
         </div>
       </div>
       <hr style={style} />

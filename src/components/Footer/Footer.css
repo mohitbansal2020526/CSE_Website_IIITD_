@@ -29,6 +29,7 @@ footer a {
 
 .socials {
   display: flex;
+  flex-direction: row;
   justify-content: flex-end;
   align-items: center;
   margin-left: auto;
@@ -50,11 +51,22 @@ footer a {
 .iiitd-logo {
   height: 2.5rem;
 }
-
+/*
 @media only screen and (max-width: 800px) {
   .footer-div {
-    flex-direction: row;
-    /* flex-wrap: nowrap; */
+    flex-direction: column;
+  }
+
+  .socials {
+    display: flex;
+    flex-direction: row; 
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 0;  Adjust margin as needed 
+  }
+
+  .social-icon {
+    margin: 0 5px; Adjust the margin as needed
   }
 
   footer .divider {
@@ -66,13 +78,13 @@ footer a {
   }
 
   footer p {
-    text-align: right;
+    text-align: center;
   }
 
   .footer-div > div {
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
+    align-items: center;
   }
 
   .iiitd-logo {
@@ -81,27 +93,41 @@ footer a {
 }
 
 @media only screen and (max-width: 405px) {
-  .footer-div,
-  .footer-div div {
-    justify-content: center;
-    align-items: center;
+  .footer-div {
+    flex-direction: column;
   }
 
-  footer a {
-    flex: unset;
-    margin-top: 10px;
+  .socials {
+    display: flex;
+    flex-direction: row; 
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 0;  
+  }
+
+  .social-icon {
+    margin: 0 5px; 
   }
 
   footer .divider {
     display: none;
   }
 
-  .footer-text {
+  footer a {
+    margin-right: 0;
+  }
+
+  footer p {
+    text-align: center;
+  }
+
+  .footer-div > div {
+    display: flex;
     flex-direction: column;
     align-items: center;
   }
 
-  footer p {
+  .iiitd-logo {
     margin: 2px 0;
   }
-}
+}*/
