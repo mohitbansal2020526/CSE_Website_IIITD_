@@ -5,8 +5,7 @@ footer {
   background: #e6eaff;
   color: #00000094;
   font-size: 0.8rem;
-  border-top: 1px solid #00000028;
-  box-shadow: 0px -2px 15px 3px rgb(0, 0, 0, 10%);
+  border-top: #1c1d1fa1 solid 1px;
 }
 
 footer a {

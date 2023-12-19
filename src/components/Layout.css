@@ -184,16 +184,24 @@ th {
   background: #35918ce0;
 }
 
+.carousel, .carousel-image{
+  border: rgb(43, 43, 43) 1px solid;
+  padding: 0px !important;
+}
+
 .carousel-control-prev, .carousel-control-next {
   background-color: #3fb1ab4d !important;
   width: 10%;
   height: 100%;
   margin: 0 !important;
-  border: none !important;
 }
 
 .carousel-control-prev:hover, .carousel-control-next:hover{
   background-color: #3fada7be !important;
+}
+
+.indexcard-text{
+  margin-top: 1rem;
 }
 
 .body button a {
@@ -203,6 +211,10 @@ th {
   font-weight: 600;
   height: 100%;
   width: 100%;
+}
+
+.readmore:hover{
+  color: #35918ce0;
 }
 
 .body button a:hover {
@@ -244,7 +256,7 @@ th {
   display: flex;
   background-color: #e2e7ff;
   border: 0.01rem solid rgba(0, 0, 0, 0.344);
-  border-radius: 0.8rem;
+
   padding: 0 3.5%;
   margin-bottom: 5%;
   height: auto;

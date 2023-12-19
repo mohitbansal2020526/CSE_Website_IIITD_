@@ -1,5 +1,6 @@
 .navbar-internal {
   font-family: "Source Sans Pro", sans-serif !important;
+  border-bottom: #1c1d1fa1 solid 1px;
   background: #e6eaff !important;
   max-width: 100vw;
   display: flex;
@@ -8,7 +9,6 @@
   padding-right: 5rem;
   align-items: center;
   z-index: 10;
-  box-shadow: 0px 4px 15px 3px rgb(0, 0, 0, 14%);
   position: sticky;
   top: 0;
 }

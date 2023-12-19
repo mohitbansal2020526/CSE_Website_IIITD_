@@ -288,22 +288,38 @@ class Publications extends React.Component {
         <Layout title="Homepage">
           <Row className="landingpage">
             <Col className="landingpage-left">
-              <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+              <div
+                id="carouselIndicators"
+                class="carousel slide"
+                data-bs-ride="carousel"
+              >
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src={banner1} class="d-block w-100" alt="..." />
+                    <img
+                      src={banner1}
+                      class=" carousel-image d-block w-100"
+                      alt="..."
+                    />
                   </div>
                   <div class="carousel-item">
-                    <img src={banner2} class="d-block w-100" alt="..." />
+                    <img
+                      src={banner2}
+                      class="carousel-image d-block w-100"
+                      alt="..."
+                    />
                   </div>
                   <div class="carousel-item">
-                    <img src={banner3} class="d-block w-100" alt="..." />
+                    <img
+                      src={banner3}
+                      class="carousel-image d-block w-100"
+                      alt="..."
+                    />
                   </div>
                 </div>
                 <button
                   class="carousel-control-prev"
                   type="button"
-                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-target="#carouselIndicators"
                   data-bs-slide="prev"
                 >
                   <span
@@ -315,7 +331,7 @@ class Publications extends React.Component {
                 <button
                   class="carousel-control-next"
                   type="button"
-                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-target="#carouselIndicators"
                   data-bs-slide="next"
                 >
                   <span
@@ -327,8 +343,9 @@ class Publications extends React.Component {
               </div>
               <Row className="my-3">
                 <Col className="d-flex align-items-stretch">
-                  <div className="component-container d-flex flex-column">
-                    <img className="d-block w-100" src={img1} alt="img1" />
+                  <div className="indexcard-container d-flex flex-column">
+                    <img className="d-block w-100 border border-dark" src={img1} alt="img1" />
+                    <div className = "indexcard-text">
                     <h4>
                       {" "}
                       <a href="/about/mission" style={{ color: "#42aea8" }}>
@@ -341,16 +358,18 @@ class Publications extends React.Component {
                       cutting-edge research in computer science and apply
                       technology in diverse domains. Educate engineers for
                       innovation through thriving academic programs that are
-                      industry relevant.
-                      <a href="/about/mission">Read More</a>
+                      industry relevant.{" "}
+                      <a href="/about/mission" className="readmore">Read More</a>
                     </p>
+                    </div>
                   </div>
                 </Col>
 
                 {/* Left Component 2 */}
                 <Col className="d-flex align-items-stretch">
-                  <div className="component-container d-flex flex-column">
-                    <img className="d-block w-100" src={img1} alt="img1" />
+                  <div className="indexcard-container d-flex flex-column">
+                    <img className="d-block w-100 border border-dark" src={img1} alt="img1" />
+                    <div className = "indexcard-text">
                     <h4>
                       {" "}
                       <a href="/about/details" style={{ color: "#42aea8" }}>
@@ -363,9 +382,10 @@ class Publications extends React.Component {
                       creating societal value, Driving innovation and excellence
                       in research. Applying engineering knowledge, analyzing
                       problems, designing solutions, and engage ethically in
-                      diverse contexts.
-                      <a href="/about/details">Read More</a>
+                      diverse contexts.{" "}
+                      <a href="/about/details" className="readmore">Read More</a>
                     </p>
+                    </div>
                   </div>
                 </Col>
               </Row>
