@@ -35,7 +35,6 @@ const Eventscard = props => {
           </p>
         </div>
       </div>
-      <hr style={style} />
     </div>
   )
 }

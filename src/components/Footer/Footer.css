@@ -2,7 +2,7 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  background: #e2e7ff;
+  background: #e6eaff;
   color: #00000094;
   font-size: 0.8rem;
   border-top: 1px solid #00000028;
@@ -36,8 +36,11 @@ footer a {
 }
 
 .social-icon {
-  margin-left: 10px; /* Adjust the margin as needed */
+  scale: 1.2;
+  margin-left: 2rem; /* Adjust the margin as needed */
 }
+
+
 
 .footer-text {
   display: flex;
@@ -45,7 +48,7 @@ footer a {
 }
 
 .footer-text p {
-  padding: 0 5px;
+  padding: 0 1rem;
 }
 
 .iiitd-logo {

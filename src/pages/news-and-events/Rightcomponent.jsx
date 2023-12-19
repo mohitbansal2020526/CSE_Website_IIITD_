@@ -15,71 +15,80 @@ const month_num_to_name = {
   "07": "Jul",
   "08": "Aug",
   "09": "Sept",
-  "10": "Oct",
-  "11": "Nov",
-  "12": "Dec",
+  10: "Oct",
+  11: "Nov",
+  12: "Dec",
 }
 
 const rightcomponent = () => {
   const recent_events = useStaticQuery(graphql`
-    query MyQuery($date: DateQueryOperatorInput = {}) {
+    query MyQuery {
       allCardsJson(
-        filter: { category: { eq: "Events" }, date: $date }
-        limit: 3
-        sort: { fields: date, order: DESC }
+        filter: { category: { in: ["Events", "Publications"] } }
+        limit: 10
       ) {
         nodes {
           description
           date
           title
           subtitle
+          category
         }
       }
     }
   `)
 
-  const recentEventsList = recent_events.allCardsJson.nodes.map(Element => {
-    return {
-      month: Element.date.split("-")[1],
-      date: Element.date.split("-")[2],
-      link: Element.link,
-      description: Element.description,
-      title: Element.title,
-    }
-  })
+  const recentEventsList = recent_events.allCardsJson.nodes
+    .filter(item => item.category[0] === "Events")
+    .slice(0, 3)
+    .map(item => {
+      return {
+        month: item.date.split("-")[1],
+        date: item.date.split("-")[2],
+        title: item.title,
+        description: item.description,
+        link: item.link,
+      }
+    })
 
-  const Publications = [
-    {
-      date: "2021-02-02",
-      subtitle: "IEEE Trans. Multim. 2021 ",
-      description: "Vinayak Abrol, Pulkit Sharma, Arijit Patra",
-      title: "Improving Generative Modelling in VAEs Using Multimodal Prior.",
-      link: "https://doi.org/10.1109/TMM.2020.3008053",
-      category: ["Publications"],
-    },
-    {
-      date: "2021-02-02",
-      subtitle: "IEEE Trans. Multim. 2021 ",
-      description: "Vinayak Abrol, Pulkit Sharma, Arijit Patra",
-      title: "Improving Generative Modelling in VAEs Using Multimodal Prior.",
-      link: "https://doi.org/10.1109/TMM.2020.3008053",
-      category: ["Publications"],
-    },
-    {
-      date: "2021-02-02",
-      subtitle: "IEEE Trans. Multim. 2021 ",
-      description: "Vinayak Abrol, Pulkit Sharma, Arijit Patra",
-      title: "Improving Generative Modelling in VAEs Using Multimodal Prior.",
-      link: "https://doi.org/10.1109/TMM.2020.3008053",
-      category: ["Publications"],
-    },
-  ]
+  const recentPublicationsList = recent_events.allCardsJson.nodes
+    .filter(item => item.category[0] === "Publications")
+    .slice(0, 3)
+
+  // const Publications = [
+  //   {
+  //     date: "2021-02-02",
+  //     subtitle: "IEEE Trans. Multim. 2021 ",
+  //     description: "Vinayak Abrol, Pulkit Sharma, Arijit Patra",
+  //     title: "Improving Generative Modelling in VAEs Using Multimodal Prior.",
+  //     link: "https://doi.org/10.1109/TMM.2020.3008053",
+  //     category: ["Publications"],
+  //   },
+  //   {
+  //     date: "2021-02-02",
+  //     subtitle: "IEEE Trans. Multim. 2021 ",
+  //     description: "Vinayak Abrol, Pulkit Sharma, Arijit Patra",
+  //     title: "Improving Generative Modelling in VAEs Using Multimodal Prior.",
+  //     link: "https://doi.org/10.1109/TMM.2020.3008053",
+  //     category: ["Publications"],
+  //   },
+  //   {
+  //     date: "2021-02-02",
+  //     subtitle: "IEEE Trans. Multim. 2021 ",
+  //     description: "Vinayak Abrol, Pulkit Sharma, Arijit Patra",
+  //     title: "Improving Generative Modelling in VAEs Using Multimodal Prior.",
+  //     link: "https://doi.org/10.1109/TMM.2020.3008053",
+  //     category: ["Publications"],
+  //   },
+  // ]
 
   return (
     <div className="right-container">
       <div className="eventscard-container right-item">
         <h3 className="margintopbot prevent_overflow">
-          <Link to="/news-and-events/events">Upcoming Events</Link>
+          <Link className="events-title" to="/news-and-events/events">
+            Upcoming Events
+          </Link>
         </h3>
         {recentEventsList.map((item, index) => {
           return (
@@ -96,9 +105,11 @@ const rightcomponent = () => {
 
       <div className="right-item">
         <h3 className="margintopbot prevent_overflow">
-          <Link to="/research/pubs2">Publications</Link>
+          <Link className="publications-title" to="/research/pubs2">
+            Publications
+          </Link>
         </h3>
-        {Publications.map((item, index) => {
+        {recentPublicationsList.map((item, index) => {
           return (
             <Publicationcard
               title={item.title}

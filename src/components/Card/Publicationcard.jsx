@@ -25,7 +25,6 @@ const Publicationcard = props => {
           <p className="publication-desc">{props.description}</p>
         </div>
       </div>
-      <hr style={style} />
     </div>
   )
 }
