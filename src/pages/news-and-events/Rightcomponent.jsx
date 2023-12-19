@@ -86,7 +86,7 @@ const rightcomponent = () => {
     <div className="right-container">
       <div className="eventscard-container right-item">
         <h3 className="margintopbot prevent_overflow">
-          <Link className="events-title" to="/news-and-events/events">
+          <Link className="title-link events-title" to="/news-and-events/events">
             Upcoming Events
           </Link>
         </h3>
@@ -105,7 +105,7 @@ const rightcomponent = () => {
 
       <div className="right-item">
         <h3 className="margintopbot prevent_overflow">
-          <Link className="publications-title" to="/research/pubs2">
+          <Link className="title-link publications-title" to="/research/pubs2">
             Publications
           </Link>
         </h3>

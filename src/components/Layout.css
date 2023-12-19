@@ -23,7 +23,7 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #f6f6ffab;
+  background-color: #f0f2fda4;
 }
 
 h1,
@@ -184,7 +184,7 @@ th {
   background: #35918ce0;
 }
 
-.carousel, .carousel-image{
+.carousel-image{
   border: rgb(43, 43, 43) 1px solid;
   padding: 0px !important;
 }
@@ -202,6 +202,13 @@ th {
 
 .indexcard-text{
   margin-top: 1rem;
+  font-family: "Fira Sans", sans-serif;
+}
+
+.indexcard-image{
+  border: black 1px solid;
+  max-height: 20rem;
+  width: 9rem;
 }
 
 .body button a {
@@ -256,7 +263,7 @@ th {
   display: flex;
   background-color: #e2e7ff;
   border: 0.01rem solid rgba(0, 0, 0, 0.344);
-
+  font-family: "Fira Sans", sans-serif;
   padding: 0 3.5%;
   margin-bottom: 5%;
   height: auto;
@@ -301,12 +308,15 @@ th {
   }
 }
 
-.events-title {
+.title-link{
   font-size: 1.8rem;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 700;
 }
 
-.publications-title {
-  font-size: 1.8rem;
+.title-link:hover{
+  color: #35918ce0;
+  margin-left: 0.2rem;
 }
 
 .eventItem-left {

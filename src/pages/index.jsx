@@ -10,6 +10,7 @@ import { graphql } from "gatsby"
 import banner1 from "../assets/images/banner1.jpg"
 import banner2 from "../assets/images/banner2.png"
 import img1 from "../assets/images/img1.jpg"
+import img2 from "../assets/images/img2.jpg"
 import banner3 from "../assets/images/banner3.png"
 import "./styles.css"
 import iiitdlogo from "../assets/images/iiitd_footer_color.png"
@@ -344,23 +345,29 @@ class Publications extends React.Component {
               <Row className="my-3">
                 <Col className="d-flex align-items-stretch">
                   <div className="indexcard-container d-flex flex-column">
-                    <img className="d-block w-100 border border-dark" src={img1} alt="img1" />
-                    <div className = "indexcard-text">
-                    <h4>
-                      {" "}
-                      <a href="/about/mission" style={{ color: "#42aea8" }}>
+                    <img
+                      className="d-block w-100 indexcard-image"
+                      src={img1}
+                      alt="img1"
+                    />
+                    <div className="indexcard-text">
+                      <h4>
                         {" "}
-                        Mission & Vission{" "}
-                      </a>
-                    </h4>
-                    <p>
-                      Department's mission and vision are to conduct
-                      cutting-edge research in computer science and apply
-                      technology in diverse domains. Educate engineers for
-                      innovation through thriving academic programs that are
-                      industry relevant.{" "}
-                      <a href="/about/mission" className="readmore">Read More</a>
-                    </p>
+                        <a href="/about/mission" style={{ color: "#42aea8" }}>
+                          {" "}
+                          Mission & Vision{" "}
+                        </a>
+                      </h4>
+                      <p>
+                        The department strives for global excellence through
+                        advanced computer science research, applying technology
+                        across domains. We're committed to cultivating standout
+                        engineers, fostering innovation, and inspiring new
+                        product creation.{" "}
+                        <a href="/about/mission" className="readmore">
+                          Read More
+                        </a>
+                      </p>
                     </div>
                   </div>
                 </Col>
@@ -368,23 +375,31 @@ class Publications extends React.Component {
                 {/* Left Component 2 */}
                 <Col className="d-flex align-items-stretch">
                   <div className="indexcard-container d-flex flex-column">
-                    <img className="d-block w-100 border border-dark" src={img1} alt="img1" />
-                    <div className = "indexcard-text">
-                    <h4>
-                      {" "}
-                      <a href="/about/details" style={{ color: "#42aea8" }}>
+                    <img
+                      className="d-block w-100 indexcard-image"
+                      src={img2}
+                      alt="img1"
+                    />
+                    <div className="indexcard-text">
+                      <h4>
                         {" "}
-                        PEOs, POs& PSOs{" "}
-                      </a>{" "}
-                    </h4>
-                    <p>
-                      Innovating in industry, pursuing advanced studies, and
-                      creating societal value, Driving innovation and excellence
-                      in research. Applying engineering knowledge, analyzing
-                      problems, designing solutions, and engage ethically in
-                      diverse contexts.{" "}
-                      <a href="/about/details" className="readmore">Read More</a>
-                    </p>
+                        <a href="/about/details" style={{ color: "#42aea8" }}>
+                          {" "}
+                          PEOs, POs & PSOs{" "}
+                        </a>{" "}
+                      </h4>
+                      <p>
+                        The BTech program cultivates engineering expertise by
+                        emphasizing problem-solving, design proficiency, and
+                        effective communication.
+                        The curriculum integrates modern tools for research and
+                        communication, fostering an understanding of
+                        engineering principles. Graduates are prepared to
+                        contribute meaningfully across diverse fields.{" "}
+                        <a href="/about/details" className="readmore">
+                          Read More
+                        </a>
+                      </p>
                     </div>
                   </div>
                 </Col>
