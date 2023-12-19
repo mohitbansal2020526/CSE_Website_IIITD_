@@ -184,6 +184,18 @@ th {
   background: #35918ce0;
 }
 
+.carousel-control-prev, .carousel-control-next {
+  background-color: #3fb1ab4d !important;
+  width: 10%;
+  height: 100%;
+  margin: 0 !important;
+  border: none !important;
+}
+
+.carousel-control-prev:hover, .carousel-control-next:hover{
+  background-color: #3fada7be !important;
+}
+
 .body button a {
   text-decoration: none !important;
   color: #fff;

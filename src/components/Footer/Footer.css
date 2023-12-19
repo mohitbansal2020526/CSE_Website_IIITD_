@@ -17,7 +17,7 @@ footer a {
 .footer-div {
   max-width: 100vw;
   width: 100%;
-  height: 3rem;
+  height: 3.5rem;
   margin: 0.5rem auto;
   padding: 0.5rem;
   display: flex;
@@ -33,14 +33,13 @@ footer a {
   justify-content: flex-end;
   align-items: center;
   margin-left: auto;
+  margin-right: 0.5rem;
 }
 
 .social-icon {
-  scale: 1.2;
-  margin-left: 2rem; /* Adjust the margin as needed */
+  scale: 1.1;
+  margin-left: 0.1rem; /* Adjust the margin as needed */
 }
-
-
 
 .footer-text {
   display: flex;
@@ -53,7 +52,10 @@ footer a {
 
 .iiitd-logo {
   height: 2.5rem;
+  margin: 0 0.5rem;
 }
+
+
 /*
 @media only screen and (max-width: 800px) {
   .footer-div {

@@ -7,8 +7,8 @@ import { getPaperDataByYear } from "../helpers/categorize"
 import { getPaperDataByYear2 } from "../helpers/categorize"
 //import { getDataByType } from "../helpers/categorize"
 import { graphql } from "gatsby"
-import banner1 from "../assets/images/the_ranking.png"
-import banner2 from "../assets/images/qs_ranking.png"
+import banner1 from "../assets/images/banner1.jpg"
+import banner2 from "../assets/images/banner2.png"
 import img1 from "../assets/images/img1.jpg"
 import banner3 from "../assets/images/banner3.png"
 import "./styles.css"
@@ -288,37 +288,61 @@ class Publications extends React.Component {
         <Layout title="Homepage">
           <Row className="landingpage">
             <Col className="landingpage-left">
-              <Carousel>
-                <Carousel.Item>
-                  <img
-                    className="d-block w-100"
-                    src={banner1}
-                    alt="First slide"
-                  />
-                </Carousel.Item>
-                <Carousel.Item>
-                  <img
-                    className="d-block w-100"
-                    src={banner2}
-                    alt="Second slide"
-                  />
-                </Carousel.Item>
-              </Carousel>
+              <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src={banner1} class="d-block w-100" alt="..." />
+                  </div>
+                  <div class="carousel-item">
+                    <img src={banner2} class="d-block w-100" alt="..." />
+                  </div>
+                  <div class="carousel-item">
+                    <img src={banner3} class="d-block w-100" alt="..." />
+                  </div>
+                </div>
+                <button
+                  class="carousel-control-prev"
+                  type="button"
+                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide="prev"
+                >
+                  <span
+                    class="carousel-control-prev-icon"
+                    aria-hidden="true"
+                  ></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button
+                  class="carousel-control-next"
+                  type="button"
+                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide="next"
+                >
+                  <span
+                    class="carousel-control-next-icon"
+                    aria-hidden="true"
+                  ></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
               <Row className="my-3">
                 <Col className="d-flex align-items-stretch">
                   <div className="component-container d-flex flex-column">
-                    <img
-                      className="d-block w-100"
-                      src={img1}
-                      alt="img1"
-                    />
-                    <h4> <a href="/about/mission" style={{ color: '#42aea8' }}> Mission & Vission </a></h4>
+                    <img className="d-block w-100" src={img1} alt="img1" />
+                    <h4>
+                      {" "}
+                      <a href="/about/mission" style={{ color: "#42aea8" }}>
+                        {" "}
+                        Mission & Vission{" "}
+                      </a>
+                    </h4>
                     <p>
-                    Department's mission and vision are to conduct 
-                    cutting-edge research in computer science and apply technology
-                    in diverse domains. Educate engineers for innovation through thriving academic programs
-                    that are industry relevant.
-                    <a href="/about/mission">Read More</a>
+                      Department's mission and vision are to conduct
+                      cutting-edge research in computer science and apply
+                      technology in diverse domains. Educate engineers for
+                      innovation through thriving academic programs that are
+                      industry relevant.
+                      <a href="/about/mission">Read More</a>
                     </p>
                   </div>
                 </Col>
@@ -326,18 +350,21 @@ class Publications extends React.Component {
                 {/* Left Component 2 */}
                 <Col className="d-flex align-items-stretch">
                   <div className="component-container d-flex flex-column">
-                    <img
-                      className="d-block w-100"
-                      src={img1}
-                      alt="img1"
-                    />
-                    <h4> <a href="/about/details" style={{ color: '#42aea8' }}> PEOs, POs& PSOs </a> </h4>
+                    <img className="d-block w-100" src={img1} alt="img1" />
+                    <h4>
+                      {" "}
+                      <a href="/about/details" style={{ color: "#42aea8" }}>
+                        {" "}
+                        PEOs, POs& PSOs{" "}
+                      </a>{" "}
+                    </h4>
                     <p>
-                    Innovating in industry, pursuing advanced studies, 
-                    and creating societal value, Driving innovation and excellence in research.
-                    Applying engineering knowledge, analyzing problems, designing solutions,
-                    and engage ethically in diverse contexts.
-                    <a href="/about/details">Read More</a>
+                      Innovating in industry, pursuing advanced studies, and
+                      creating societal value, Driving innovation and excellence
+                      in research. Applying engineering knowledge, analyzing
+                      problems, designing solutions, and engage ethically in
+                      diverse contexts.
+                      <a href="/about/details">Read More</a>
                     </p>
                   </div>
                 </Col>

@@ -16,11 +16,8 @@ const Socials = [
 // ... (existing imports)
 
 export default function Footer() {
-  const [windowWidth, setWindowWidth] = useState(null);
+  const [windowWidth, setWindowWidth] = useState(window.innerWidth);
 
-  useEffect(() => {
-    setWindowWidth(window.innerWidth);
-  }, []);
 
   return (
     <footer>
@@ -46,7 +43,7 @@ export default function Footer() {
         <a href="https://www.iiitd.ac.in">
           <img
             className="iiitd-logo"
-            src={windowWidth > 800 ? IIITDLogo : IIITDLogoSmall}
+            src={windowWidth > 768 ? IIITDLogo : IIITDLogoSmall}
             alt="IIITD Logo"
           />
         </a>
