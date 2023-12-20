@@ -1,11 +1,10 @@
 .navbar-mobile {
-  background: #d7d8dd !important;
+  background: #e6eaff !important;
   min-width: 100vw;
   height: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-bottom: 0.4rem solid #3fada8;
   z-index: 10;
   box-shadow: 0px 4px 15px 3px rgb(0, 0, 0, 14%);
   position: sticky;

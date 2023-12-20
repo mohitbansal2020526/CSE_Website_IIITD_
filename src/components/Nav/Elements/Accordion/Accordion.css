@@ -4,18 +4,13 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-
 .accordion-button {
-  background: transparent;
-  cursor: pointer;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
   width: 100% !important;
-  /* text-transform: uppercase; */
-  text-decoration: none !important;
   padding: 0.5rem;
   color: #221f1f !important;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
   border: none;
   outline: none;
   transition: background-color 0.3s ease;
@@ -23,6 +18,15 @@
   font-family: "Source Sans Pro", sans-serif !important;
   font-size: 1.25rem;
 }
+
+.accordion-icon {
+  margin-left : 1rem;
+  margin-bottom: 0.4rem;
+}
+
+
+
+
 
 .accordion-title {
   color: #221f1f !important;
@@ -37,10 +41,6 @@
 .accordion:hover .active {
 }
 
-.accordion-icon {
-  margin-left: auto;
-  transition: transform 0.3s ease;
-}
 
 .rotate {
   transform: rotate(90deg);
