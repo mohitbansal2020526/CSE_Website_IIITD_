@@ -13,11 +13,26 @@ const Socials = [
   // Add more social media objects as needed
 ];
 
-// ... (existing imports)
-
 export default function Footer() {
-  const [windowWidth, setWindowWidth] = useState(window.innerWidth);
+  const [windowWidth, setWindowWidth] = useState(0);
 
+  useEffect(() => {
+    // Update windowWidth on client side
+    setWindowWidth(window.innerWidth);
+
+    // Event listener to update windowWidth on window resize
+    const handleResize = () => {
+      setWindowWidth(window.innerWidth);
+    };
+
+    // Attach the event listener
+    window.addEventListener("resize", handleResize);
+
+    // Detach the event listener on component unmount
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []); // Empty dependency array ensures the effect runs only once on mount
 
   return (
     <footer>
