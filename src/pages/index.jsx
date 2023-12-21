@@ -342,7 +342,7 @@ class Publications extends React.Component {
                   <span class="visually-hidden">Next</span>
                 </button>
               </div>
-              <Row className="my-3">
+              <Row className="my-4">
                 <Col className="d-flex align-items-stretch">
                   <div className="indexcard-container d-flex flex-column">
                     <img

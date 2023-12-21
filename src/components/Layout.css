@@ -190,11 +190,16 @@ th {
 }
 
 .carousel-control-prev, .carousel-control-next {
-  background-color: #3fb1ab4d !important;
+  background-color:  #c5fffc49 !important;
+  border: none !important;
+  box-shadow: none !important;
   width: 10%;
   height: 100%;
   margin: 0 !important;
 }
+
+
+
 
 .carousel-control-prev:hover, .carousel-control-next:hover{
   background-color: #3fada7be !important;

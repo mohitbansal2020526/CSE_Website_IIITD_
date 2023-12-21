@@ -25,6 +25,7 @@ const rightcomponent = () => {
     query MyQuery {
       allCardsJson(
         filter: { category: { in: ["Events", "Publications"] } }
+        sort: { fields: date, order: DESC }
       ) {
         nodes {
           description
@@ -36,6 +37,7 @@ const rightcomponent = () => {
       }
     }
   `)
+
 
   const recentEventsList = recent_events.allCardsJson.nodes
     .filter(item => item.category[0] === "Events")
@@ -85,7 +87,10 @@ const rightcomponent = () => {
     <div className="right-container">
       <div className="eventscard-container right-item">
         <h3 className="margintopbot prevent_overflow">
-          <Link className="title-link events-title" to="/news-and-events/events">
+          <Link
+            className="title-link events-title"
+            to="/news-and-events/events"
+          >
             Upcoming Events
           </Link>
         </h3>
