@@ -14,15 +14,8 @@ const Socials = [
   // Add more social media objects as needed
 ];
 
-// ... (existing imports)
-
 export default function Footer() {
-  const windowsizes= useWindowSize();
-
-  if (typeof window === `undefined`) {
-    return(<></>);
-  }
-
+  const windowsizes = useWindowSize();
   return (
     <footer>
       <div className="footer-div d-flex flex-column align-items-end">
