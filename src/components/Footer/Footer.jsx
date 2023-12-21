@@ -4,6 +4,7 @@ import IIITDLogo from "../../assets/images/iiitd_footer_color.svg";
 import IIITDLogoSmall from "../../assets/images/iiitd_color.svg";
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import "./Footer.css";
+import useWindowSize from "../../hooks/useWindowSize";
 
 const Socials = [
   { icon: FaFacebook, href: "https://www.facebook.com/cseiiitd/" },
@@ -16,8 +17,11 @@ const Socials = [
 // ... (existing imports)
 
 export default function Footer() {
-  const [windowWidth, setWindowWidth] = useState(window.innerWidth);
+  const windowsizes= useWindowSize();
 
+  if (typeof window === `undefined`) {
+    return(<></>);
+  }
 
   return (
     <footer>
@@ -43,7 +47,7 @@ export default function Footer() {
         <a href="https://www.iiitd.ac.in">
           <img
             className="iiitd-logo"
-            src={windowWidth > 768 ? IIITDLogo : IIITDLogoSmall}
+            src={windowsizes.width > 768 ? IIITDLogo : IIITDLogoSmall}
             alt="IIITD Logo"
           />
         </a>

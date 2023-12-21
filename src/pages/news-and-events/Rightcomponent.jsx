@@ -25,7 +25,6 @@ const rightcomponent = () => {
     query MyQuery {
       allCardsJson(
         filter: { category: { in: ["Events", "Publications"] } }
-        limit: 10
       ) {
         nodes {
           description

@@ -20,7 +20,7 @@ class Publications extends React.Component {
     this.year = new Date().getFullYear()
   }
 
-  componentDidMount() {
+  componentDidMount () {
     for (const prof of this.state.professors) {
       let joinDate = prof["DOJ"]
       let leaveDate = prof["DOR"]
